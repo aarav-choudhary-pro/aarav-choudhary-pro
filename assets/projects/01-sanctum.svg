@@ -100,4 +100,14 @@
     <text x="774" y="276" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#67E8F9">CARRIER: 0528 kHz</text>
     <text x="1158" y="306" text-anchor="end" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#E8B44C">DECK PROTOCOL: HIDE</text>
   </g>
+
+  <!-- On-Load Spline Diagnostic Scan Beam -->
+  <rect id="cardBootBeam" x="4" y="4" width="1192" height="2.2" fill="#67E8F9" opacity="0" pointer-events="none">
+    <animate attributeName="y" from="8" to="328" dur="1.15s" begin="0.05s" fill="freeze"
+             calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1"/>
+    <animate attributeName="opacity" values="0;0.75;0.55;0" keyTimes="0;0.15;0.75;1" dur="1.15s" begin="0.05s" fill="freeze"/>
+  </rect>
+  <path id="sancOrbit" d="M 885 88 A 126 126 0 1 1 884.9 88 Z" fill="none"/>
+  <circle r="3.5" fill="#67E8F9" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="5.5s" repeatCount="indefinite"/><animateMotion dur="5.5s" repeatCount="indefinite"><mpath href="#sancOrbit"/></animateMotion></circle>
+  <circle r="3.2" fill="#FBBF24" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="5.5s" begin="2.75s" repeatCount="indefinite"/><animateMotion dur="5.5s" begin="2.75s" repeatCount="indefinite"><mpath href="#sancOrbit"/></animateMotion></circle>
 </svg>

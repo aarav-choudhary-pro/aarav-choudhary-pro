@@ -1,325 +1,356 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     AARAV CHOUDHARY — MASTER GITHUB PROFILE
-     https://github.com/aarav-choudhary-pro
-     ID: 002 // Product Visionary · KiCad Hardware Lead · Civic-Tech Builder
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-  <a href="https://ts-creative-the-protfolio.vercel.app/?unlock">
-    <img src="./assets/core/hero-opening.svg" alt="Aarav Choudhary — Product Visionary, KiCad PCB Hardware Lead &amp; Full-Stack Builder" width="100%" />
-  </a>
-</div>
 
-<div align="center">
-  <a href="https://ts-creative-the-protfolio.vercel.app/?unlock"><img src="./assets/buttons/nav-sanctum.svg" alt="Enter Sanctum Archive" /></a>&nbsp;
-  <a href="https://devpost.com/aaravgurmeet"><img src="./assets/buttons/nav-devpost.svg" alt="Devpost Profile — aaravgurmeet" /></a>&nbsp;
-  <a href="#-direct-uplink"><img src="./assets/buttons/nav-discord.svg" alt="Discord — iamaarav_68049" /></a>&nbsp;
-  <a href="mailto:aaravgurmeet@gmail.com"><img src="./assets/buttons/nav-email.svg" alt="Email — aaravgurmeet@gmail.com" /></a>
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════
+     BEAT 01 · 32-SECOND 4-ACT CINEMA OPENING ("PROTOCOL: CHILD EMPEROR // ID: 002")
+     ═══════════════════════════════════════════════════════════════════════════════════════════ -->
+<a href="https://ts-creative-the-protfolio.vercel.app/?unlock">
+  <img src="./assets/core/opening-cinema.svg" width="100%" alt="Aarav Choudhary — Child Emperor 4-Act Tactical &amp; Silicon Boot Sequence" />
+</a>
 
-<p align="center">
-  <sub>
-    <a href="#-operator-dossier"><b>00 · Dossier</b></a> &nbsp;·&nbsp;
-    <a href="#-flagship-systems--co-founded-ventures"><b>01 · Flagship Systems</b></a> &nbsp;·&nbsp;
-    <a href="#-solo-impact-internships--engineering-vault"><b>02 · Solo Impact Vault</b></a> &nbsp;·&nbsp;
-    <a href="#-the-council--team-cca"><b>03 · Team CCA</b></a> &nbsp;·&nbsp;
-    <a href="#-beyond-the-terminal"><b>04 · Beyond Code</b></a> &nbsp;·&nbsp;
-    <a href="#-master-live-domain-registry"><b>05 · All Live Domains</b></a>
-  </sub>
+<br/>
+
+<!-- Counter-Rotating S-Class Prodigy Reactor Seal -->
+<img src="./assets/core/emblem-crest.svg" width="108" alt="Child Emperor S-Class Reactor Seal" />
+
+<p>
+  <sub><b>CODENAME: CHILD EMPEROR</b> · <code>ID // 002</code> · CLASS 10 PRODIGY ARCHITECT · GURUGRAM, INDIA</sub><br/>
+  <i>"Anyone can ship a template mockup. I solder the 2-layer board, prove the psychology, and hold the eight-minute hook."</i>
 </p>
 
-<img src="./assets/core/divider.svg" width="100%" alt="" />
+<!-- Direct Operator Channels -->
+<p>
+  <a href="mailto:aaravgurmeet@gmail.com"><img src="./assets/buttons/nav-email.svg" height="34" alt="Email Aarav" /></a>&nbsp;
+  <a href="https://devpost.com/aaravgurmeet"><img src="./assets/buttons/nav-devpost.svg" height="34" alt="Devpost Profile" /></a>&nbsp;
+  <a href="https://github.com/aarav-choudhary-pro"><img src="./assets/buttons/peer-aarav.svg" height="34" alt="GitHub Vault" /></a>&nbsp;
+  <a href="./docs/PORTFOLIO-MASTERPLAN.md"><img src="./assets/buttons/nav-masterplan.svg" height="34" alt="Me Portfolio Masterplan" /></a>
+</p>
 
-## ⦿ Operator Dossier
+<sub>Discord: <code>iamaarav_68049</code> &nbsp;·&nbsp; Colonel's Central Academy (Class 10C, Roll 02) &nbsp;·&nbsp; Status: <i>strongest debugger alive (unconfirmed)</i></sub>
 
-Most student builders stay inside a single browser tab. My work lives where **two-layer copper PCBs**, **behavioral psychology**, and **high-conviction product storytelling** meet — soldering **LM2596 buck converters and RS485 sensor buses** on physical vertical-farming hardware one week, shipping **NGO platforms reaching 5,00,000+ citizens** the next, and holding the **eight-minute Finals hook** on stage when it counts.
-
-<div align="center">
-  <img src="./assets/core/operator-dossier.svg" alt="Aarav Choudhary — Capability Telemetry, Verified Wins &amp; Full-Spectrum Stack" width="100%" />
 </div>
 
-<img src="./assets/core/divider.svg" width="100%" alt="" />
+<br/>
 
-## ⦿ Flagship Systems & Co-Founded Ventures
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════
+     BEAT 02 · S-CLASS PRODIGY REGISTRATION DOSSIER (SPLINE BARS + 6-AXIS HEX RADAR)
+     ═══════════════════════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <img src="./assets/core/prodigy-registry.svg" width="100%" alt="S-Class Prodigy Registration Dossier — Okame-Chan Power Readout &amp; 6-Axis Combat Polygon" />
+</div>
 
-<sub>Every banner below is a bespoke animated schematic wired directly to its live deployment. Use the cockpit switches beneath each card to jump into every hosted build, or open the classified drawer for unlock protocols and technical architecture.</sub>
+<br/>
 
-<br/><br/>
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════
+     BEAT 03 · ACTIVE DEPLOYMENT BUS (THREE PRIMARY FRONTS ONLINE RIGHT NOW)
+     ═══════════════════════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <img src="./assets/core/active-arsenal.svg" width="100%" alt="Active Deployment Bus — Sanctum, Verde v3.0 &amp; Nirmaan" />
+</div>
 
-<!-- ═══════════════════ 01 · PROJECT SANCTUM ═══════════════════ -->
+<img src="./assets/core/divider-kyber.svg" width="100%" alt="" />
+
+---
+
+## `01 // THE FIVE FLAGSHIP ECOSYSTEMS`
+
+> Every flagship below is deployed on live production domains and paired with an animated schematic showing **what was physically or algorithmically built** and **where Aarav (`ID: 002`) drove the architecture, hardware, research, or Finals pitch**.
+
+<br/>
+
+<!-- ─────────────────────────────────────── 01 · PROJECT SANCTUM ─────────────────────────────────────── -->
 <div align="center">
   <a href="https://ts-creative-the-protfolio.vercel.app/?unlock">
-    <img src="./assets/projects/01-sanctum.svg" alt="01 · PROJECT SANCTUM — The Network That Pretends Not To Exist" width="100%" />
+    <img src="./assets/projects/01-sanctum.svg" width="100%" alt="Project Sanctum — Covert Rebellion Command Network" />
   </a>
-</div>
-
-<div align="center">
-  <a href="https://ts-creative-the-protfolio.vercel.app/?unlock"><img src="./assets/buttons/sanc-archive.svg" alt="Door 01 — The Archive (?unlock)" /></a>&nbsp;
-  <a href="https://ts-creative.vercel.app/"><img src="./assets/buttons/sanc-app.svg" alt="Door 02 — Live App (ts-creative.vercel.app)" /></a>&nbsp;
-  <a href="https://project-sanctum-ppt.vercel.app/"><img src="./assets/buttons/sanc-deck.svg" alt="Door 03 — Live WebGL Deck (project-sanctum-ppt.vercel.app)" /></a>&nbsp;
-  <a href="https://github.com/AlphabuggOp/ts-creative"><img src="./assets/buttons/sanc-repo-app.svg" alt="Source Repo — ts-creative" /></a>&nbsp;
-  <a href="https://github.com/AlphabuggOp/Ts-Creative-PPT"><img src="./assets/buttons/sanc-repo-ppt.svg" alt="Source Repo — Ts-Creative-PPT" /></a>
+  <br/><br/>
+  <a href="https://ts-creative-the-protfolio.vercel.app/?unlock"><img src="./assets/buttons/sanc-archive.svg" height="36" alt="Sanctum Unlocked Archive" /></a>&nbsp;
+  <a href="https://ts-creative.vercel.app/"><img src="./assets/buttons/sanc-app.svg" height="36" alt="Sanctum Covert App" /></a>&nbsp;
+  <a href="https://project-sanctum-ppt.vercel.app/"><img src="./assets/buttons/sanc-deck.svg" height="36" alt="Sanctum Disguised Deck" /></a>&nbsp;
+  <a href="https://github.com/AlphabuggOp/TS-CREATIVE"><img src="./assets/buttons/sanc-repo-app.svg" height="36" alt="TS-CREATIVE Repository" /></a>
 </div>
 
 <details>
-  <summary><b>▸ DECLASSIFY SANCTUM // Unlock Protocols, 4-Act Architecture &amp; My Role</b></summary>
-  <br/>
+<summary><b>🔓 CLASSIFIED TRANSMISSION — Click to reveal Covert Unlock Codes &amp; Aarav's Finals Architecture</b></summary>
+<br/>
 
-  - **Event & Crew**: **TS '26 Creative (Tech Syndicate)** · **Team CCA** (*Aarav Choudhary · Jeehaan Kwatra `@AlphabuggOp` · Anuj Phulera `@UCHIHA-MADARA-ANUJ`*).
-  - **My Role (`Product & Story`)**: *"Wrote the world. Holds the eight-minute hook."* Authored the universe lore, product thesis, and delivered **Slides 01–03 (Hook, Problem, Idea)** and **Slides 10–12 (Why It Wins, Summary, Close)** in the 8-minute Finals script, plus hosted the unified Archive on Vercel.
-  - **How to Enter the Three Live Doors**:
-    1. **The Archive (`ts-creative-the-protfolio.vercel.app`)**: Append **`/?unlock`**, OR open the dead shortwave radio blog (*SIGNAL & STATIC*), find the ring in the photo drawer, **click 3 times**, and enter frequency **`0528`**.
-    2. **The Main Network (`ts-creative.vercel.app`)**: On *SIGNAL & STATIC*, knock **3 times** on the ring and enter **`0528`** → boots into **Act 0 (The Seal)** → **Act 1 (620vh GLSL Hyperspace Gate)** → **Act 2 (Signal, Focus & Choice Rites + Proof Games)** → **Act 3 (Holo-Map, Dead-Drop Cipher, A* Safe-Lane Router, 19 Field Log Quests & Beacon Forge)**.
-    3. **The WebGL Pitch Deck (`project-sanctum-ppt.vercel.app`)**: Disguised as the 1998 *Andoria Deep-Sky Archive* Geocities astronomy blog → open **Gallery → Fig. 5 (*Unidentified object, 14 Nov 1998*)**, click **3 times**, enter protocol **`HIDE`** → 12 live Three.js/GLSL slides.
-    4. **Emergency Controls**: Press **`~`** at any moment to panic-vanish back into the decoy blog; press **`D`** in the Archive to wipe local clearance.
+- **Aarav's Role (`Product & Story · Team CCA`)**: *"Wrote the world. Holds the eight-minute hook."* Authored the end-to-end rebellion narrative, operational doctrine, and **Finals Slides 01–03** (*Covert Entry, Threat Model, Doctrine*) & **Slides 10–12** (*Live Operational Finale — "Don't take a Drive folder. Take the Archive."*).
+- **How to Unlock the Live Disguised Surfaces**:
+  1. **Unlocked Archive (`?unlock`)**: [`ts-creative-the-protfolio.vercel.app/?unlock`](https://ts-creative-the-protfolio.vercel.app/?unlock) — Direct clearance into the 6-tab Command Dossier.
+  2. **Covert App (`ts-creative.vercel.app`)**: Presents as an innocent civilian weather portal -> **Knock 3 times** on the crest -> Enter frequency **`0528`** -> Unlocks **16 playable subsystems** (*Sector Map, Saber Forge, Holocron Matrix, Hyperspace, Comms, Droid Calibration*).
+  3. **Disguised Finals Deck (`project-sanctum-ppt.vercel.app`)**: Masquerades as the *1998 Andoria Deep-Sky Survey Archive* -> Open **Gallery Fig. 5**, click **3×**, type **`HIDE`** -> Reveals the 12-slide rebellion deck (**`~` Panic Key** snaps every surface back to civilian cover in `<16ms`).
+- **Squad (`Team CCA`)**: **Aarav Choudhary** (*Product & Story*) · [**Jeehaan Kwatra (`@AlphabuggOp`)**](https://github.com/AlphabuggOp) (*Design & Motion*) · [**Anuj Phulera (`@UCHIHA-MADARA-ANUJ`)**](https://github.com/UCHIHA-MADARA-ANUJ) (*Engineering*).
+
 </details>
 
 <br/>
 
-<!-- ═══════════════════ 02 · PROJECT VERDE ═══════════════════ -->
+<!-- ─────────────────────────────────────── 02 · PROJECT VERDE v3.0 ─────────────────────────────────────── -->
 <div align="center">
   <a href="https://verde-cbse.vercel.app/">
-    <img src="./assets/projects/02-verde.svg" alt="02 · PROJECT VERDE — Autonomous Hydroponic Tower &amp; Custom 2-Layer KiCad PCB" width="100%" />
+    <img src="./assets/projects/02-verde.svg" width="100%" alt="Project Verde v3.0 — Autonomous Hydroponic Hardware &amp; Custom 2-Layer KiCad PCB" />
   </a>
-</div>
-
-<div align="center">
-  <a href="https://verde-cbse.vercel.app/"><img src="./assets/buttons/verde-cbse.svg" alt="Live — CBSE Compendium" /></a>&nbsp;
-  <a href="https://verde-cbse-app.vercel.app/"><img src="./assets/buttons/verde-os3.svg" alt="Live — VERDE OS v3.0 Mission Control" /></a>&nbsp;
-  <a href="https://verde-main-portfolio.vercel.app/"><img src="./assets/buttons/verde-3d.svg" alt="Live — Original 3D Compendium" /></a>&nbsp;
-  <a href="https://verde-app-main-tulsi.vercel.app/"><img src="./assets/buttons/verde-tulsi.svg" alt="Live — VERDE OS v2.0 Tulsi Tech Build" /></a>&nbsp;
-  <a href="https://github.com/UCHIHA-MADARA-ANUJ/WEBX/tree/arena/e04d43ff-webx"><img src="./assets/buttons/verde-acon5.svg" alt="DAV ACON 5 V3.0 Showcase Branch" /></a>&nbsp;
-  <a href="https://github.com/UCHIHA-MADARA-ANUJ/Verde-CBSE"><img src="./assets/buttons/verde-repo.svg" alt="Source Repo — Verde-CBSE" /></a>
+  <br/><br/>
+  <a href="https://verde-cbse.vercel.app/"><img src="./assets/buttons/verde-cbse.svg" height="36" alt="Verde v3.0 Portfolio" /></a>&nbsp;
+  <a href="https://verde-cbse-app.vercel.app/"><img src="./assets/buttons/verde-os3.svg" height="36" alt="Verde OS v3.0 App" /></a>&nbsp;
+  <a href="https://verde-main-portfolio.vercel.app/"><img src="./assets/buttons/verde-3d.svg" height="36" alt="Verde v2.0 Portfolio" /></a>&nbsp;
+  <a href="https://verde-app-main-tulsi.vercel.app/"><img src="./assets/buttons/verde-tulsi.svg" height="36" alt="Verde Tulsi OS" /></a>&nbsp;
+  <a href="https://github.com/UCHIHA-MADARA-ANUJ/VERDE-APP"><img src="./assets/buttons/verde-repo.svg" height="36" alt="VERDE-APP Repository" /></a>
 </div>
 
 <details>
-  <summary><b>▸ DECLASSIFY VERDE // 2-Layer KiCad PCB Specs, Sensor Bus &amp; Attribution</b></summary>
-  <br/>
+<summary><b>⚡ SILICON BENCH SCHEMATIC — Click to inspect Aarav's 2-Layer KiCad PCB &amp; Hydroponic Tower Specs</b></summary>
+<br/>
 
-  - **Circuits & Competitions**: Built across **CBSE Science Exhibition**, **DAV ACON 5 (`WEBX` V3.0)**, and **Tulsi Tech** with **Anuj Phulera** (`@UCHIHA-MADARA-ANUJ`).
-  - **My Role (`02 · Hardware, PCB & Electronics Lead` + `Interface & Data` on V3.0)**:
-    - Designed the **custom 2-layer KiCad PCB**, replacing fragile breadboard wiring with solid power/signal planes.
-    - Engineered the **12V → 5V/3A LM2596 buck converter** power rail, **4-channel relay switching stage with flyback diode protection** for pumps/solenoids, and **physical 4-tier, 20-plant closed-loop vertical tower** saving **95% water** vs. soil farming.
-    - Integrated **industrial RS485 NPK sensing**, **pH**, **TDS**, **DHT22**, and **ESP32-CAM OV2640** feeding a **38ms INT8 quantized TFLite** leaf-health classifier + cloud **VERDE OS Mission Control**.
+- **Aarav's Role (`02 · Hardware & Electronics Lead`)**: Engineered the physical **4-tier, 20-site vertical hydroponic tower** and custom **2-layer KiCad printed circuit board** bridging industrial agro-sensors with edge computer vision.
+- **Board-Level Architecture**:
+  - **Power Regulation**: `12V DC` main input stepped down via a **buck-regulated `LM2596` `5.0V / 3A` stage** with bulk decoupling to eliminate ESP32 brownouts under pump load.
+  - **Actuation & Isolation**: Flyback-diode protected relay channels switching peristaltic nutrient dosing pumps and circulation lines.
+  - **Sensor & Edge AI Bus**: Industrial **RS485 NPK** interface + pH / TDS / DHT22 probes + **ESP32-CAM running `38ms` quantized `INT8` TensorFlow Lite** foliar diagnostics (**`95%` water saved**, **`3×` vertical yield**).
+- **Additional Web Showcase**: Also deployed for DAV ACON 5 (`WEBX` V3.0) at [`UCHIHA-MADARA-ANUJ/WEBX`](https://github.com/UCHIHA-MADARA-ANUJ/WEBX/tree/arena/e04d43ff-webx).
+
 </details>
 
 <br/>
 
-<!-- ═══════════════════ 03 · NIRMAN ═══════════════════ -->
+<!-- ─────────────────────────────────────── 03 · NIRMAN ─────────────────────────────────────── -->
 <div align="center">
   <a href="https://nirmaan-portfolio-main.vercel.app/">
-    <img src="./assets/projects/03-nirmaan.svg" alt="03 · NIRMAN — DAV E-Colosseum '26 Winner &amp; India E-Waste Pickup Network" width="100%" />
+    <img src="./assets/projects/03-nirmaan.svg" width="100%" alt="Nirman — 1st Place Winner DAV E-Colosseum '26 E-Waste Circular Network" />
   </a>
-</div>
-
-<div align="center">
-  <a href="https://nirmaan-portfolio-main.vercel.app/"><img src="./assets/buttons/nirman-port.svg" alt="Live — 16-Act Nirmaan Portfolio" /></a>&nbsp;
-  <a href="https://nirmaan-portfolio-main.vercel.app/team/aarav"><img src="./assets/buttons/nirman-aarav.svg" alt="Live — /team/aarav Dedicated Co-Founder Page" /></a>&nbsp;
-  <a href="https://nirmaan-f3dr3oqkg-madaracodingprojects-9646s-projects.vercel.app/"><img src="./assets/buttons/nirman-app.svg" alt="Live — 4-Role Nirmaan Pickup App" /></a>&nbsp;
-  <a href="https://github.com/UCHIHA-MADARA-ANUJ/Nirmaan-Portfolio-"><img src="./assets/buttons/nirman-repo-port.svg" alt="Source Repo — Nirmaan Portfolio" /></a>&nbsp;
-  <a href="https://github.com/UCHIHA-MADARA-ANUJ/nirmaan-app"><img src="./assets/buttons/nirman-repo-app.svg" alt="Source Repo — nirmaan-app" /></a>
+  <br/><br/>
+  <a href="https://nirmaan-portfolio-main.vercel.app/"><img src="./assets/buttons/nirman-port.svg" height="36" alt="Nirmaan Portfolio" /></a>&nbsp;
+  <a href="https://nirmaan-portfolio-main.vercel.app/team/aarav"><img src="./assets/buttons/nirman-aarav.svg" height="36" alt="Aarav Dedicated Dossier" /></a>&nbsp;
+  <a href="https://nirmaan-f3dr3oqkg-madaracodingprojects-9646s-projects.vercel.app/"><img src="./assets/buttons/nirman-app.svg" height="36" alt="Nirmaan 4-Role App" /></a>&nbsp;
+  <a href="https://github.com/UCHIHA-MADARA-ANUJ/nirmaan-portfolio"><img src="./assets/buttons/nirman-repo-port.svg" height="36" alt="Nirmaan Repository" /></a>
 </div>
 
 <details>
-  <summary><b>▸ DECLASSIFY NIRMAN // DAV E-Colosseum '26 Win, 4-Role GIS Flow &amp; My Role</b></summary>
-  <br/>
+<summary><b>🏆 CHAMPIONSHIP DOSSIER — Click to inspect DAV E-Colosseum '26 Win &amp; Circular Economy Architecture</b></summary>
+<br/>
 
-  - **Award & Trajectory**: **🏆 1st Place Winner at DAV E-Colosseum '26**, subsequently expanded for the **Bharat Innovation Challenge** with co-founder **Anuj Phulera**.
-  - **My Role (`Co-Founder · Product Visionary & GTM Strategist` — featured at `/team/aarav`)**:
-    - Conceived the *"Swiggy / Uber for E-Waste"* 4-tier marketplace (**Household User → Verified Recycler Partner → Admin KYC Verifier → Database Owner**) addressing India's **14.14-lakh-tonne** annual e-waste crisis.
-    - Specified the **4-step Partner KYC Appeal & Leaflet.js + Nominatim draggable-pin geocoding workflow**, ensuring only admin-verified CPCB recyclers (**76 hubs + 140 smart bins**) surface on customer pickup maps, paired with **EcoBot AI** and real-time environmental impact analytics.
+- **Honors**: **1st Place Winner — DAV E-Colosseum '26** & Flagship **Bharat Innovation Challenge (BIC)** Circular-Economy Contender.
+- **Aarav's Role (`Co-Founder · Product Visionary & GTM Strategist`)**: Featured on his dedicated live route [`/team/aarav`](https://nirmaan-portfolio-main.vercel.app/team/aarav). Architected the unit economics, dual-incentive Kabadiwala formalization loop, and national pitch tackling India's **14.14-lakh-tonne** e-waste crisis (`78%` informal leakage).
+- **Live System Capabilities**: **4-role synchronized workflow** (*Citizen User, Verified Collection Partner, Municipal Admin, Platform Owner*), live **Leaflet geospatial dispatch** across **76 CPCB-authorized recyclers + 140 smart bins**, and **EcoBot AI** valuation.
+
 </details>
 
 <br/>
 
-<!-- ═══════════════════ 04 · RESONATE ═══════════════════ -->
+<!-- ─────────────────────────────────────── 04 · RESONATE ─────────────────────────────────────── -->
 <div align="center">
   <a href="https://resonate-preview.vercel.app/">
-    <img src="./assets/projects/04-resonate.svg" alt="04 · RESONATE — Algorithmic Sanctuary &amp; 5-App Empathy Ecosystem" width="100%" />
+    <img src="./assets/projects/04-resonate.svg" width="100%" alt="Resonate — 5-Surface Algorithmic Emotional Sanctuary &amp; 52-Route WebGL Suite" />
   </a>
-</div>
-
-<div align="center">
-  <a href="https://resonate-preview.vercel.app/"><img src="./assets/buttons/res-v1.svg" alt="Live — Resonate Sanctuary v1" /></a>&nbsp;
-  <a href="https://resonate-portfolio-resonate-r3pv-cb2bngl2n.vercel.app/"><img src="./assets/buttons/res-v2.svg" alt="Live — 52-Route GLSL Build v2" /></a>&nbsp;
-  <a href="https://tapestry-hub-uloe.bolt.host/"><img src="./assets/buttons/res-bolt.svg" alt="Live — Tapestry Hub Emotional Galaxy" /></a>&nbsp;
-  <a href="https://flute-cover-54901990.figma.site/"><img src="./assets/buttons/res-figma.svg" alt="Live — Resonate Executive Pitchdeck" /></a>&nbsp;
-  <a href="https://devpost.com/software/resonate-vn53iz"><img src="./assets/buttons/res-devpost.svg" alt="Devpost Hackathon Submission" /></a>&nbsp;
-  <a href="https://github.com/UCHIHA-MADARA-ANUJ/Resonate-Portfolio"><img src="./assets/buttons/res-repo.svg" alt="Source Repo — Resonate-Portfolio" /></a>
+  <br/><br/>
+  <a href="https://resonate-preview.vercel.app/"><img src="./assets/buttons/res-v1.svg" height="36" alt="Resonate v1 Sanctuary" /></a>&nbsp;
+  <a href="https://resonate-portfolio-resonate-r3pv-cb2bngl2n.vercel.app/"><img src="./assets/buttons/res-v2.svg" height="36" alt="Resonate v2 52-Route App" /></a>&nbsp;
+  <a href="https://tapestry-hub-uloe.bolt.host/"><img src="./assets/buttons/res-bolt.svg" height="36" alt="Tapestry Hub Galaxy" /></a>&nbsp;
+  <a href="https://flute-cover-54901990.figma.site/"><img src="./assets/buttons/res-figma.svg" height="36" alt="Resonate Pitchdeck" /></a>&nbsp;
+  <a href="https://devpost.com/software/resonate-vn53iz"><img src="./assets/buttons/res-devpost.svg" height="36" alt="Resonate Devpost" /></a>
 </div>
 
 <details>
-  <summary><b>▸ DECLASSIFY RESONATE // 5-App Universe, Custom GLSL Shaders &amp; My Role</b></summary>
-  <br/>
+<summary><b>🌌 CONSTELLATION SPECS — Click to explore all 5 Live Surfaces &amp; Foru.ms × v0 Hackathon Build</b></summary>
+<br/>
 
-  - **Hackathons**: Submitted to the **Foru.ms × v0 by Vercel Hackathon** on Devpost and developed for **Bharat Innovation Challenge Stage-1** with co-founder **Anuj Phulera**.
-  - **My Role (`Co-Founder · ID: 002 // VISIONARY`)**:
-    - Co-created the anti-vanity social model eliminating public like counts in favor of **30-second raw voice/story "Echoes"** woven into collaborative **"Tapestries"** and **Gemini-verified "Good Quests"** that reward vulnerability and kindness with XP.
-    - Worked across backend verification flows, emotional dataset edge cases, business modeling (**$50M Y1 TAM** executive deck on Figma Make), and the 5-product constellation (**Quest App · Echo Studio · Tapestry Hub · Mirage Lab · Resonance Circles**) spanning **52 routes** and **3 custom GLSL shader pairs**.
+- **Aarav's Role (`Co-Founder · ID: 002 // Visionary`)**: Designed the anti-engagement-trap product thesis (*mood-first synchronous sanctuaries instead of infinite doomscroll feeds*), core user journeys, and `$50M` TAM venture deck.
+- **5-Surface Live Ecosystem**:
+  1. **Resonate v1 Sanctuary** (`resonate-preview.vercel.app`) — Real-time emotional resonance rooms & ambient soundscapes.
+  2. **Resonate v2 (`52 Routes`)** (`resonate-portfolio-resonate-r3pv-cb2bngl2n.vercel.app`) — Full Next.js + custom **GLSL fragment shader** suite.
+  3. **Tapestry Hub** (`tapestry-hub-uloe.bolt.host`) — Interactive 3D Emotional Galaxy visualizer.
+  4. **Executive Pitchdeck** (`flute-cover-54901990.figma.site`) — Venture narrative & monetization roadmap.
+  5. **Verified Hackathon Entry** (`devpost.com/software/resonate-vn53iz`) — Shipped for the **Foru.ms × v0 by Vercel** hackathon; source at [`UCHIHA-MADARA-ANUJ/Resonate`](https://github.com/UCHIHA-MADARA-ANUJ/Resonate) & [`Resonate-Portfolio`](https://github.com/UCHIHA-MADARA-ANUJ/Resonate-Portfolio).
+
 </details>
 
 <br/>
 
-<!-- ═══════════════════ 05 · SKILLVERSE ═══════════════════ -->
+<!-- ─────────────────────────────────────── 05 · SKILLVERSE v9.9.1 ─────────────────────────────────────── -->
 <div align="center">
   <a href="https://skillverse-xi.vercel.app/">
-    <img src="./assets/projects/05-skillverse.svg" alt="05 · SKILLVERSE — 250+ Student Research Dataset &amp; 8 Gemini AI Pipelines" width="100%" />
+    <img src="./assets/projects/05-skillverse.svg" width="100%" alt="SkillVerse v9.9.1 — Empirical Screen-to-Skill AI Platform" />
   </a>
-</div>
-
-<div align="center">
-  <a href="https://skillverse-xi.vercel.app/"><img src="./assets/buttons/sv-main.svg" alt="Live — SkillVerse v9.9.1" /></a>&nbsp;
-  <a href="https://skill-verse-final-dkp7r1jhz-madaracodingprojects-9646s-projects.vercel.app/"><img src="./assets/buttons/sv-mirror.svg" alt="Live — SkillVerse Production Mirror" /></a>&nbsp;
-  <a href="https://github.com/UCHIHA-MADARA-ANUJ/S2S"><img src="./assets/buttons/sv-repo.svg" alt="Source Repo — S2S" /></a>
+  <br/><br/>
+  <a href="https://skillverse-xi.vercel.app/"><img src="./assets/buttons/sv-main.svg" height="36" alt="SkillVerse Portal" /></a>&nbsp;
+  <a href="https://skill-verse-final-dkp7r1jhz-madaracodingprojects-9646s-projects.vercel.app/"><img src="./assets/buttons/sv-mirror.svg" height="36" alt="SkillVerse v9.9.1 App" /></a>&nbsp;
+  <a href="https://github.com/UCHIHA-MADARA-ANUJ/SKILL-VERSE-FINAL"><img src="./assets/buttons/sv-repo.svg" height="36" alt="SKILL-VERSE-FINAL Repo" /></a>&nbsp;
+  <a href="https://github.com/AlphabuggOp/skillverse"><img src="./assets/buttons/sv-squad.svg" height="36" alt="SkillVerse Squad Repo" /></a>
 </div>
 
 <details>
-  <summary><b>▸ DECLASSIFY SKILLVERSE // 250+ Student Empirical Study &amp; 8 AI Pipelines</b></summary>
-  <br/>
+<summary><b>🧠 EMPIRICAL RESEARCH — Click to inspect the 250+ Student Survey &amp; 8 Gemini 2.5 Flash Pipelines</b></summary>
+<br/>
 
-  - **Competition**: Built for **DAV Screen2Skill 2026 (`GATECCA · Gurugram`, v9.9.1)**.
-  - **My Role (`ID: 002 // VISIONARY — Ideator, Research & Strategy`)**:
-    - Designed and executed the multi-stakeholder behavioral survey across **250+ students, educators, and parents** measuring passive screen-time habits vs. structured skill acquisition.
-    - Translated those empirical findings into **8 Gemini 2.5 Flash AI skill-coaching pipelines**, **34 Next.js routes**, and **live Supabase telemetry charts** that turn passive scrolling into verifiable micro-skills.
+- **Aarav's Role (`ID: 002 · Visionary — Ideator & Strategy · GATECCA`)**: Grounded **SCREEN2SKILL 2026** in primary behavioral data by surveying **250+ students** (`84%` trapped in passive consumption; `79%` seeking structured micro-creation) before specifying the **8 Gemini 2.5 Flash AI pipelines** (*Roadmaps, Flashcards, Quiz Engine, Evaluator, Code Mentor, Summarizer, Career Compass, Daily Quests*) backed by Supabase Realtime.
+
 </details>
+
+<img src="./assets/core/divider-ember.svg" width="100%" alt="" />
+
+---
+
+## `02 // TACTICAL PRELIMS & NATIONAL VISION 2047`
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+  <a href="https://github.com/UCHIHA-MADARA-ANUJ/Dayum/tree/arena/01a00195-dayum">
+    <img src="./assets/projects/06a-obsidian.svg" width="100%" alt="OBSIDIAN — Imperial Security Network (TS '26 Prelims)" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/UCHIHA-MADARA-ANUJ/Dayum/tree/arena/01a00195-dayum"><img src="./assets/buttons/obsidian-repo.svg" height="34" alt="OBSIDIAN Branch" /></a>
+  <p align="left"><sub><b>OBSIDIAN — Imperial Security Network</b>: Built for <i>TechnoSapiens '26 Creative Prelims (Path 2)</i> by <b>Anuj · Aarav · Jeehaan</b>. Features dual <code> Three.js </code> 3D threat-globe &amp; orbital-ring canvases, tactical HUD overlays, and zero-latency sector lockdown controls.</sub></p>
+</td>
+<td width="50%" valign="top" align="center">
+  <a href="https://github.com/UCHIHA-MADARA-ANUJ/Asset-Manager-Vikas">
+    <img src="./assets/projects/06b-vikas.svg" width="100%" alt="Project VIKAS — TechNova Viksit Bharat 2047" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/UCHIHA-MADARA-ANUJ/Asset-Manager-Vikas"><img src="./assets/buttons/vikas-repo.svg" height="34" alt="Project VIKAS Repo" /></a>&nbsp;
+  <a href="https://replit.com/@eggeranderbroo2/Asset-Manager"><img src="./assets/buttons/vikas-replit.svg" height="34" alt="VIKAS Replit Workspace" /></a>
+  <p align="left"><sub><b>Project VIKAS — TechNova 2047</b>: Co-created by <b>Team Vikaas (Aarav Choudhary &amp; Anuj Phulera)</b>. Full-stack React + TypeScript + Express + PostgreSQL + Drizzle ORM green-tech showcase modeling India's 2047 sustainable infrastructure transition.</sub></p>
+</td>
+</tr>
+</table>
+
+<img src="./assets/core/divider-emerald.svg" width="100%" alt="" />
+
+---
+
+## `03 // CIVIC INTERNSHIPS & SOLO PRODUCTION DEPLOYMENTS`
+
+> Independent systems shipped, maintained, and battle-tested in the wild — spanning **5,00,000+ citizen awareness reach**, **child-rights advocacy**, **GPCSSI cybercrime triage**, and **1,095-question competitive engines**.
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+  <a href="https://soch-wake-up.vercel.app/">
+    <img src="./assets/projects/07a-soch.svg" width="100%" alt="SOCH — Wake Up Civic Platform (GoSharpener × SOCH)" />
+  </a>
+  <br/><br/>
+  <a href="https://soch-wake-up.vercel.app/"><img src="./assets/buttons/soch-live.svg" height="34" alt="SOCH Live Site" /></a>&nbsp;
+  <a href="https://github.com/aarav-choudhary-pro/SOCH"><img src="./assets/buttons/soch-repo.svg" height="34" alt="SOCH Repository" /></a>
+</td>
+<td width="50%" valign="top" align="center">
+  <a href="https://vigilant-ashen.vercel.app/">
+    <img src="./assets/projects/07b-vigilant.svg" width="100%" alt="Vigilant AI — GPCSSI Cybercrime Triage Platform" />
+  </a>
+  <br/><br/>
+  <a href="https://vigilant-ashen.vercel.app/"><img src="./assets/buttons/vigilant-live.svg" height="34" alt="Vigilant AI Live" /></a>&nbsp;
+  <a href="https://github.com/aarav-choudhary-pro/Vigilant"><img src="./assets/buttons/vigilant-repo.svg" height="34" alt="Vigilant Repository" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+  <br/>
+  <a href="https://act-4-aarav-ycc.vercel.app/">
+    <img src="./assets/projects/07c-cry.svg" width="100%" alt="CRY Youth Changemaker '26 — 3-Site Advocacy Trilogy" />
+  </a>
+  <br/><br/>
+  <a href="https://act01-growingup.vercel.app/"><img src="./assets/buttons/cry-act1.svg" height="32" alt="CRY Act 01" /></a>&nbsp;
+  <a href="https://activity-3-ycc.vercel.app/"><img src="./assets/buttons/cry-act3.svg" height="32" alt="CRY Act 03" /></a>&nbsp;
+  <a href="https://act-4-aarav-ycc.vercel.app/"><img src="./assets/buttons/cry-act4.svg" height="32" alt="CRY Act 04" /></a>
+</td>
+<td width="50%" valign="top" align="center">
+  <br/>
+  <a href="https://quiz-mastermind-aarav.vercel.app/">
+    <img src="./assets/projects/07d-quiz.svg" width="100%" alt="Quiz Mastermind — 1,095-Question Engine" />
+  </a>
+  <br/><br/>
+  <a href="https://quiz-mastermind-aarav.vercel.app/"><img src="./assets/buttons/quiz-live.svg" height="34" alt="Quiz Mastermind Live" /></a>&nbsp;
+  <a href="https://github.com/aarav-choudhary-pro/Quiz-mastermind"><img src="./assets/buttons/quiz-repo.svg" height="34" alt="Quiz Mastermind Repo" /></a>
+</td>
+</tr>
+</table>
+
+<img src="./assets/core/divider-kyber.svg" width="100%" alt="" />
+
+---
+
+## `04 // ORIGINS, COGNITIVE RESEARCH & COMPETITIVE CIRCUIT`
+
+<div align="center">
+  <img src="./assets/core/beyond-terminal.svg" width="100%" alt="Origins, DRM Cognitive Psychology &amp; Competitive Circuit" />
+</div>
 
 <br/>
 
-<!-- ═══════════════════ 06A · OBSIDIAN & 06B · PROJECT VIKAS ═══════════════════ -->
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/UCHIHA-MADARA-ANUJ/Dayum/tree/arena/01a00195-dayum">
-        <img src="./assets/projects/06a-obsidian.svg" alt="06A · OBSIDIAN — Imperial Security Network" width="100%" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/UCHIHA-MADARA-ANUJ/Asset-Manager-Vikas">
-        <img src="./assets/projects/06b-vikas.svg" alt="06B · PROJECT VIKAS — TechNova 2047 Exhibition" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
+| Year / Track | Initiative / Paper / Arena | What Aarav Proved |
+| :--- | :--- | :--- |
+| **`2025 · Hardware Origin`** | **Smart Irrigation Prototype** *(Moisture-Driven Relay & Pump Rig)* | Where the solder habit started: direct soil-moisture sensing driving autonomous pump actuation — the direct ancestor of **Project Verde's** 2-layer KiCad PCB. |
+| **`2025 · Cognitive Psych`** | **The DRM False-Memory Paradigm** *(Grade 9 Empirical Study)* | Investigated semantic-network activation and confident false recall (*Deese–Roediger–McDermott*), shaping how **SkillVerse** and **Resonate** treat human attention and memory. |
+| **`2025–26 · MUN Circuit`** | **IIT Delhi MUN (`DISEC`) · CCA MUN · Brahm Dutt MUN** | Forged high-pressure disarmament policy framing, rebuttal speed, and the **8-minute hook** command style deployed on hackathon finals stages. |
+| **`2025–26 · Hackathons`** | **DAV E-Colosseum '26 (`#1 Winner`) · HackDays Delhi · Gemini 3 · Foru.ms × v0 · IndianOil Quiz** | Verified multi-domain competitor across hardware, AI, civic systems, and national STEM quizzing ([`devpost.com/aaravgurmeet`](https://devpost.com/aaravgurmeet)). |
+
+---
+
+## `05 // COMPLETE 20-DOMAIN VERIFIED PRODUCTION MATRIX`
 
 <details>
-  <summary><b>▸ DECLASSIFY OBSIDIAN &amp; PROJECT VIKAS // Prelims Tactical Console &amp; Vision 2047</b></summary>
-  <br/>
+<summary><b>🌐 EXPAND FULL LIVE URL TELEMETRY TABLE — All 20 Verified `200 OK` Production Links &amp; Canonical Repos</b></summary>
+<br/>
 
-  - **06A · OBSIDIAN (`TS '26 Creative Prelims — Path 2`)**: Built by **Team CCA (Anuj · Aarav · Jeehaan)** as the classified Imperial counterpart prior to *Sanctum* — featuring a 7-phase WebGL + procedural Web Audio uplink boot sequence, sector threat feeds, and interactive Canvas StarMap (`UCHIHA-MADARA-ANUJ/Dayum`, branch `arena/01a00195-dayum`).
-  - **06B · PROJECT VIKAS (`TechNova 2047 — Viksit Bharat 2047`)**: Built by **Team Vikaas (Aarav Choudhary & Anuj Phulera, CCA Grade 10)** — a multi-pavilion tricolor digital exhibition covering Solar, Wind, EV Mobility, Bioenergy, Rivers, Policy Schemes, and India's Net-Zero 2047 roadmap (`UCHIHA-MADARA-ANUJ/Asset-Manager-Vikas` · Replit `@eggeranderbroo2/Asset-Manager`).
+| # | Ecosystem | Surface | Live Production URL | Canonical Repository | Aarav's Credit |
+| :-: | :--- | :--- | :--- | :--- | :--- |
+| `01` | **Sanctum** | Unlocked Command Archive | [`ts-creative-the-protfolio.vercel.app/?unlock`](https://ts-creative-the-protfolio.vercel.app/?unlock) | [`AlphabuggOp/TS-CREATIVE`](https://github.com/AlphabuggOp/TS-CREATIVE) | **Product & Story** (*8-Min Hook*) |
+| `02` | **Sanctum** | Covert App (`0528`) | [`ts-creative.vercel.app`](https://ts-creative.vercel.app/) | [`AlphabuggOp/TS-CREATIVE-THE-PROTFOLIO`](https://github.com/AlphabuggOp/TS-CREATIVE-THE-PROTFOLIO) | **Product & Story** |
+| `03` | **Sanctum** | Disguised Deck (`HIDE`) | [`project-sanctum-ppt.vercel.app`](https://project-sanctum-ppt.vercel.app/) | [`UCHIHA-MADARA-ANUJ/project-sanctum-ppt`](https://github.com/UCHIHA-MADARA-ANUJ/project-sanctum-ppt) | **Slides 01–03 & 10–12** |
+| `04` | **Verde v3.0** | Mission Portfolio | [`verde-cbse.vercel.app`](https://verde-cbse.vercel.app/) | [`UCHIHA-MADARA-ANUJ/VERDE-PORTFOLIO`](https://github.com/UCHIHA-MADARA-ANUJ/VERDE-PORTFOLIO) | **`02` · Hardware & Electronics** |
+| `05` | **Verde v3.0** | Live OS Telemetry App | [`verde-cbse-app.vercel.app`](https://verde-cbse-app.vercel.app/) | [`UCHIHA-MADARA-ANUJ/VERDE-APP`](https://github.com/UCHIHA-MADARA-ANUJ/VERDE-APP) | **2-Layer KiCad PCB & Tower** |
+| `06` | **Verde v2.0** | Generation-2 Portfolio | [`verde-main-portfolio.vercel.app`](https://verde-main-portfolio.vercel.app/) | [`UCHIHA-MADARA-ANUJ/verde-main-portfolio`](https://github.com/UCHIHA-MADARA-ANUJ/verde-main-portfolio) | **Hardware & Sensor Bus** |
+| `07` | **Verde Tulsi** | Tulsi Hydroponic OS | [`verde-app-main-tulsi.vercel.app`](https://verde-app-main-tulsi.vercel.app/) | [`UCHIHA-MADARA-ANUJ/WEBX`](https://github.com/UCHIHA-MADARA-ANUJ/WEBX/tree/arena/e04d43ff-webx) | **Hardware & Electronics** |
+| `08` | **Nirmaan** | Winner Showcase | [`nirmaan-portfolio-main.vercel.app`](https://nirmaan-portfolio-main.vercel.app/) | [`UCHIHA-MADARA-ANUJ/nirmaan-portfolio`](https://github.com/UCHIHA-MADARA-ANUJ/nirmaan-portfolio) | **Co-Founder · Visionary & GTM** |
+| `09` | **Nirmaan** | Aarav Dedicated Route | [`nirmaan-portfolio-main.vercel.app/team/aarav`](https://nirmaan-portfolio-main.vercel.app/team/aarav) | [`UCHIHA-MADARA-ANUJ/nirmaan-portfolio`](https://github.com/UCHIHA-MADARA-ANUJ/nirmaan-portfolio) | **Featured Co-Founder Dossier** |
+| `10` | **Nirmaan** | 4-Role Dispatch App | [`nirmaan-f3dr3oqkg-...vercel.app`](https://nirmaan-f3dr3oqkg-madaracodingprojects-9646s-projects.vercel.app/) | [`UCHIHA-MADARA-ANUJ/NIRMAAN`](https://github.com/UCHIHA-MADARA-ANUJ/NIRMAAN) | **Product & Circular Loop** |
+| `11` | **Resonate** | v1 Emotional Sanctuary | [`resonate-preview.vercel.app`](https://resonate-preview.vercel.app/) | [`UCHIHA-MADARA-ANUJ/Resonate`](https://github.com/UCHIHA-MADARA-ANUJ/Resonate) | **Co-Founder (`ID: 002`)** |
+| `12` | **Resonate** | v2 52-Route GLSL App | [`resonate-portfolio-...vercel.app`](https://resonate-portfolio-resonate-r3pv-cb2bngl2n.vercel.app/) | [`UCHIHA-MADARA-ANUJ/Resonate-Portfolio`](https://github.com/UCHIHA-MADARA-ANUJ/Resonate-Portfolio) | **Co-Founder · Visionary** |
+| `13` | **Resonate** | Tapestry Hub 3D Galaxy | [`tapestry-hub-uloe.bolt.host`](https://tapestry-hub-uloe.bolt.host/) | [`UCHIHA-MADARA-ANUJ/Resonate`](https://github.com/UCHIHA-MADARA-ANUJ/Resonate) | **Constellation Concept** |
+| `14` | **Resonate** | `$50M` TAM Pitchdeck | [`flute-cover-54901990.figma.site`](https://flute-cover-54901990.figma.site/) | [`UCHIHA-MADARA-ANUJ/Resonate`](https://github.com/UCHIHA-MADARA-ANUJ/Resonate) | **Venture & GTM Deck** |
+| `15` | **Resonate** | Foru.ms × v0 Devpost | [`devpost.com/software/resonate-vn53iz`](https://devpost.com/software/resonate-vn53iz) | [`devpost.com/aaravgurmeet`](https://devpost.com/aaravgurmeet) | **Verified Co-Creator** |
+| `16` | **SkillVerse** | SCREEN2SKILL Portal | [`skillverse-xi.vercel.app`](https://skillverse-xi.vercel.app/) | [`AlphabuggOp/skillverse`](https://github.com/AlphabuggOp/skillverse) | **`ID: 002` · Visionary & Survey** |
+| `17` | **SkillVerse** | `v9.9.1` 8-AI Engine | [`skill-verse-final-...vercel.app`](https://skill-verse-final-dkp7r1jhz-madaracodingprojects-9646s-projects.vercel.app/) | [`UCHIHA-MADARA-ANUJ/SKILL-VERSE-FINAL`](https://github.com/UCHIHA-MADARA-ANUJ/SKILL-VERSE-FINAL) | **250+ Survey & Strategy** |
+| `18` | **SOCH** | `5L+` Civic Platform | [`soch-wake-up.vercel.app`](https://soch-wake-up.vercel.app/) | [`aarav-choudhary-pro/SOCH`](https://github.com/aarav-choudhary-pro/SOCH) | **Solo Web Dev Intern** |
+| `19` | **Vigilant AI** | GPCSSI Cyber Triage | [`vigilant-ashen.vercel.app`](https://vigilant-ashen.vercel.app/) | [`aarav-choudhary-pro/Vigilant`](https://github.com/aarav-choudhary-pro/Vigilant) | **Lead Builder (`CA-002`)** |
+| `20` | **CRY + Quiz** | YCC Trilogy & `1,095-Q` | [`act-4-aarav-ycc.vercel.app`](https://act-4-aarav-ycc.vercel.app/) · [`act01`](https://act01-growingup.vercel.app/) · [`act3`](https://activity-3-ycc.vercel.app/) · [`quiz`](https://quiz-mastermind-aarav.vercel.app/) | [`Act-4-Aarav-YCC`](https://github.com/aarav-choudhary-pro/Act-4-Aarav-YCC) · [`Quiz-mastermind`](https://github.com/aarav-choudhary-pro/Quiz-mastermind) | **Solo Author & Engineer** |
+
 </details>
 
-<img src="./assets/core/divider.svg" width="100%" alt="" />
+---
 
-## ⦿ Solo Impact, Internships & Engineering Vault
-
-<sub>Production websites, NGO internship deliverables, cybersecurity tools, and standalone engines shipped independently under <code>aarav-choudhary-pro</code>. Click any card to launch the live deployment.</sub>
-
-<br/><br/>
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://soch-wake-up.vercel.app/">
-        <img src="./assets/projects/07a-soch.svg" alt="07A · Wake Up SOCH — GoSharpener × SOCH Internship" width="100%" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://vigilant-ashen.vercel.app/">
-        <img src="./assets/projects/07b-vigilant.svg" alt="07B · Vigilant AI — GPCSSI Cybercrime Portal" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://act-4-aarav-ycc.vercel.app/">
-        <img src="./assets/projects/07c-cry.svg" alt="07C · CRY Youth Changemakers '26 Trilogy" width="100%" />
-      </a>
-      <p align="center">
-        <a href="https://act01-growingup.vercel.app/"><img src="./assets/buttons/cry-act1.svg" alt="Act 01 — Growing Up" /></a>&nbsp;
-        <a href="https://activity-3-ycc.vercel.app/"><img src="./assets/buttons/cry-act3.svg" alt="Act 03 — Behind Closed Doors" /></a>&nbsp;
-        <a href="https://act-4-aarav-ycc.vercel.app/"><img src="./assets/buttons/cry-act4.svg" alt="Act 04 — Child Labor Action Hub" /></a>
-      </p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://quiz-mastermind-aarav.vercel.app/">
-        <img src="./assets/projects/07d-quiz.svg" alt="07D · Quiz Mastermind — 1,095-Question Engine" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<img src="./assets/core/divider.svg" width="100%" alt="" />
-
-## ⦿ The Council // Team CCA
-
-<sub>Great systems are built by sharp squads with zero overlap in ego and total overlap in standards. Every multi-disciplinary flagship above was forged alongside my two primary co-builders at <b>Colonel's Central Academy, Gurugram</b>:</sub>
-
-<br/><br/>
+## `06 // THE COUNCIL & REPOSITORY PLAYBOOKS`
 
 <div align="center">
-  <img src="./assets/core/cca-trinity.svg" alt="Team CCA Council — Aarav Choudhary, Jeehaan Kwatra, Anuj Phulera" width="100%" />
+  <img src="./assets/core/cca-trinity.svg" width="100%" alt="The Council — Team CCA Triumvirate: Aarav × Jeehaan × Anuj" />
+  <br/><br/>
+  <a href="https://github.com/AlphabuggOp"><img src="./assets/buttons/peer-jeehaan.svg" height="36" alt="Jeehaan Kwatra (@AlphabuggOp)" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/UCHIHA-MADARA-ANUJ"><img src="./assets/buttons/peer-anuj-1.svg" height="36" alt="Anuj Phulera (@UCHIHA-MADARA-ANUJ)" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/Anuj-Phulera"><img src="./assets/buttons/peer-anuj-2.svg" height="36" alt="Anuj Phulera (@Anuj-Phulera)" /></a>
 </div>
-
-<div align="center">
-  <a href="https://github.com/aarav-choudhary-pro"><img src="./assets/buttons/peer-aarav.svg" alt="@aarav-choudhary-pro" /></a>&nbsp;
-  <a href="https://github.com/AlphabuggOp"><img src="./assets/buttons/peer-jeehaan.svg" alt="@AlphabuggOp — Jeehaan Kwatra" /></a>&nbsp;
-  <a href="https://github.com/UCHIHA-MADARA-ANUJ"><img src="./assets/buttons/peer-anuj-1.svg" alt="@UCHIHA-MADARA-ANUJ — Anuj Phulera" /></a>&nbsp;
-  <a href="https://github.com/Anuj-Phulera"><img src="./assets/buttons/peer-anuj-2.svg" alt="@Anuj-Phulera — Profile" /></a>
-</div>
-
-<img src="./assets/core/divider.svg" width="100%" alt="" />
-
-## ⦿ Beyond the Terminal
-
-<div align="center">
-  <img src="./assets/core/beyond-terminal.svg" alt="Beyond the Terminal — Smart Irrigation Hardware, DRM Psychology Study, MUN Circuit &amp; Hackathons" width="100%" />
-</div>
-
-<img src="./assets/core/divider.svg" width="100%" alt="" />
-
-## ⦿ Master Live Domain Registry
-
-<details>
-  <summary><b>▸ OPEN COMPLETE VERIFIED DIRECTORY // All 18 Live Hosted Websites &amp; Canonical Repos Featuring Aarav Choudhary</b></summary>
-  <br/>
-
-  | # | Project | Live Hosted Domain / Link | Role / Credit | Host / Source |
-  |---|---|---|---|---|
-  | 01 | **PROJECT SANCTUM — The Archive** | [`ts-creative-the-protfolio.vercel.app`](https://ts-creative-the-protfolio.vercel.app/?unlock) | **Product & Story · 8-Min Hook** | Aarav Vercel · [`TS-CREATIVE-THEPROTFOLIO`](https://github.com/AlphabuggOp/TS-CREATIVE-THEPROTFOLIO) |
-  | 02 | **PROJECT SANCTUM — Hidden Network App** | [`ts-creative.vercel.app`](https://ts-creative.vercel.app/) | **Team CCA Council (`0528`)** | [`AlphabuggOp/ts-creative`](https://github.com/AlphabuggOp/ts-creative) |
-  | 03 | **PROJECT SANCTUM — WebGL Pitch Deck** | [`project-sanctum-ppt.vercel.app`](https://project-sanctum-ppt.vercel.app/) | **Team CCA Council (`HIDE`)** | [`AlphabuggOp/Ts-Creative-PPT`](https://github.com/AlphabuggOp/Ts-Creative-PPT) |
-  | 04 | **Project VERDE — CBSE Compendium** | [`verde-cbse.vercel.app`](https://verde-cbse.vercel.app/) | **02 · Hardware & Electronics** | [`UCHIHA-MADARA-ANUJ/Verde-CBSE`](https://github.com/UCHIHA-MADARA-ANUJ/Verde-CBSE) |
-  | 05 | **Project VERDE — VERDE OS v3.0 App** | [`verde-cbse-app.vercel.app`](https://verde-cbse-app.vercel.app/) | **Co-Builder · Hardware Telemetry** | [`UCHIHA-MADARA-ANUJ/VERDE-CBSE-APP`](https://github.com/UCHIHA-MADARA-ANUJ/VERDE-CBSE-APP) |
-  | 06 | **Project VERDE — 3D Archive Site** | [`verde-main-portfolio.vercel.app`](https://verde-main-portfolio.vercel.app/) | **Co-Builder · Vertical Tower** | [`UCHIHA-MADARA-ANUJ/verde-main-portfolio`](https://github.com/UCHIHA-MADARA-ANUJ/verde-main-portfolio) |
-  | 07 | **Project VERDE — Tulsi v2.0 Mission** | [`verde-app-main-tulsi.vercel.app`](https://verde-app-main-tulsi.vercel.app/) | **Co-Builder · ESP32 Stream** | [`UCHIHA-MADARA-ANUJ/Verde-App-Main`](https://github.com/UCHIHA-MADARA-ANUJ/Verde-App-Main) |
-  | 08 | **NIRMAN — 16-Act Portfolio** | [`nirmaan-portfolio-main.vercel.app`](https://nirmaan-portfolio-main.vercel.app/) | **Co-Founder · DAV Winner** | [`UCHIHA-MADARA-ANUJ/Nirmaan-Portfolio-`](https://github.com/UCHIHA-MADARA-ANUJ/Nirmaan-Portfolio-) |
-  | 09 | **NIRMAN — Dedicated `/team/aarav` Route** | [`nirmaan-portfolio-main.vercel.app/team/aarav`](https://nirmaan-portfolio-main.vercel.app/team/aarav) | **Product Visionary & GTM** | Dedicated Founder Dossier |
-  | 10 | **NIRMAN — Live 4-Role Pickup App** | [`nirmaan-f3dr3oqkg-...vercel.app`](https://nirmaan-f3dr3oqkg-madaracodingprojects-9646s-projects.vercel.app/) | **Co-Founder · GIS & KYC Flow** | [`UCHIHA-MADARA-ANUJ/nirmaan-app`](https://github.com/UCHIHA-MADARA-ANUJ/nirmaan-app) |
-  | 11 | **RESONATE — Algorithmic Sanctuary v1** | [`resonate-preview.vercel.app`](https://resonate-preview.vercel.app/) | **Co-Founder · `ID: 002`** | [`UCHIHA-MADARA-ANUJ/Resonate-`](https://github.com/UCHIHA-MADARA-ANUJ/Resonate-) |
-  | 12 | **RESONATE — 52-Route GLSL Build v2** | [`resonate-portfolio-resonate-r3pv-cb2bngl2n.vercel.app`](https://resonate-portfolio-resonate-r3pv-cb2bngl2n.vercel.app/) | **Co-Founder · `ID: 002`** | [`UCHIHA-MADARA-ANUJ/Resonate-Portfolio`](https://github.com/UCHIHA-MADARA-ANUJ/Resonate-Portfolio) |
-  | 13 | **RESONATE — Tapestry Hub** | [`tapestry-hub-uloe.bolt.host`](https://tapestry-hub-uloe.bolt.host/) | **Co-Founder · Emotional Galaxy** | Bolt.host Live Build |
-  | 14 | **RESONATE — Executive Pitchdeck** | [`flute-cover-54901990.figma.site`](https://flute-cover-54901990.figma.site/) | **Co-Founder · $50M TAM Deck** | Figma Make Live Site |
-  | 15 | **RESONATE — Devpost Submission** | [`devpost.com/software/resonate-vn53iz`](https://devpost.com/software/resonate-vn53iz) | **Co-Founder (`@aaravgurmeet`)** | Foru.ms × v0 Hackathon |
-  | 16 | **SKILLVERSE — v9.9.1 Platform** | [`skillverse-xi.vercel.app`](https://skillverse-xi.vercel.app/) | **`ID: 002` · 250+ Survey Lead** | [`UCHIHA-MADARA-ANUJ/S2S`](https://github.com/UCHIHA-MADARA-ANUJ/S2S) |
-  | 17 | **Wake Up SOCH (`SOCH × GoSharpener`)** | [`soch-wake-up.vercel.app`](https://soch-wake-up.vercel.app/) | **Solo · Web Dev Intern (5L+)** | Aarav Vercel |
-  | 18 | **Vigilant AI (`GPCSSI CA-002 & CA044`)** | [`vigilant-ashen.vercel.app`](https://vigilant-ashen.vercel.app/) | **Lead Builder · Cyber Portal** | Aarav Vercel |
-  | 19 | **CRY YCC '26 — Act 01 / 03 / 04 Trilogy** | [`act01`](https://act01-growingup.vercel.app/) · [`act03`](https://activity-3-ycc.vercel.app/) · [`act04`](https://act-4-aarav-ycc.vercel.app/) | **Solo · CRY YCC '26 Intern** | Aarav Vercel (3 Live Apps) |
-  | 20 | **Quiz Mastermind (`1,095-Q Engine`)** | [`quiz-mastermind-aarav.vercel.app`](https://quiz-mastermind-aarav.vercel.app/) | **Solo Creator & Engineer** | Aarav Vercel |
-</details>
-
-<img src="./assets/core/divider.svg" width="100%" alt="" />
-
-## ⦿ Direct Uplink
-
-Open to ambitious **hackathons**, **hardware + AI collaborations**, **civic-tech fellowships**, and **product sprints**.
-
-- **Email**: [`aaravgurmeet@gmail.com`](mailto:aaravgurmeet@gmail.com)
-- **Discord**: `iamaarav_68049` *(𝕬𝖆𝖗𝖆𝖛 ⚔️ ♾️ — "strongest debugger alive (unconfirmed)")*
-- **Devpost**: [`devpost.com/aaravgurmeet`](https://devpost.com/aaravgurmeet)
 
 <br/>
 
+<table>
+<tr>
+<td width="34%" valign="top">
+  <b>📖 <a href="./docs/OPERATIONS-MANUAL.md">Operator Manual (<code>OPERATIONS-MANUAL.md</code>)</a></b><br/>
+  <sub>Step-by-step GitHub Profile activation, avatar upload (`pfp/`), pinning guide, and custom SVG maintenance rules.</sub>
+</td>
+<td width="33%" valign="top">
+  <b>🏛️ <a href="./docs/PORTFOLIO-MASTERPLAN.md">Standalone "Me Portfolio" Blueprint</a></b><br/>
+  <sub>Full Next.js 15 + React Three Fiber + GLSL 8-room interactive architecture plan for <code>aaravchoudhary.dev</code>.</sub>
+</td>
+<td width="33%" valign="top">
+  <b>🛡️ <a href="./pfp/">Custom Forged Avatar Vault (<code>pfp/</code>)</a></b><br/>
+  <sub>3 high-DPI <code>1024×1024</code> emblems: <a href="./pfp/aarav-child-emperor-crest.png"><b>Child Emperor S-Class Crest</b></a>, <a href="./pfp/aarav-002-emblem.png"><b>002 Monolith</b></a>, and <a href="./pfp/aarav-council-sigil.png"><b>Council Sigil</b></a>.</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════
+     BEAT 07 · 64-SECOND SCROLLING CINEMA END CREDITS
+     ═══════════════════════════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="./assets/core/closing-seal.svg" alt="Don't take a Drive folder. Take the archive. The network remembers." width="100%" />
+  <img src="./assets/core/end-credits.svg" width="100%" alt="Aarav Choudhary — Scrolling Archive End Credits" />
 </div>

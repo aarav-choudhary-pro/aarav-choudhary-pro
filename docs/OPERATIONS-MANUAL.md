@@ -25,10 +25,11 @@ GitHub renders `aarav-choudhary-pro/README.md` on `https://github.com/aarav-chou
 
 Open **[github.com/settings/profile](https://github.com/settings/profile)**:
 
-### A. Profile Picture (Two Ready-to-Upload `1024×1024` PNGs in `pfp/`)
-Download either file from [`/pfp`](../pfp) and click **Edit** on your GitHub avatar:
-1. **`pfp/aarav-002-emblem.png`** *(Recommended)* — Custom forged vector **8-pointed Kyber-Cyan & Molten-Copper Council Star** with PCB solder traces and **`AC · ID · 002`** dead-center. Reads razor-sharply even at `40×40` comment size.
-2. **`pfp/aarav-council-sigil.png`** — Your authentic forged **SANCTUM Council Sigil** (`plate-aarav.png`) optimized to `1024×1024`.
+### A. Profile Picture (Three Ready-to-Upload `1024×1024` PNGs in `pfp/`)
+Download any of these files from [`/pfp`](../pfp) and click **Edit** on your GitHub avatar:
+1. **`pfp/aarav-child-emperor-crest.png`** *(Recommended — Matches `opening-cinema.svg`)* — Custom **Child Emperor S-Class Mecha-Reactor Crest** featuring a 20-tooth Kyber gear, 6 articulated backpack PCB arms, Okame-Chan tactical visor eyes, and **`AC·002 // S-CLASS`** dead-center.
+2. **`pfp/aarav-002-emblem.png`** — Forged vector **8-pointed Kyber-Cyan & Molten-Copper Council Star** with PCB solder traces and **`AC · ID · 002`**.
+3. **`pfp/aarav-council-sigil.png`** — Forged **SANCTUM Council Sigil** optimized to `1024×1024`.
 
 ### B. Copy-Paste Sidebar Fields
 - **Name**:

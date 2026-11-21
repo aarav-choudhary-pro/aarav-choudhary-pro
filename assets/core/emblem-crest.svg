@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" width="220" height="220" role="img" aria-label="Child Emperor S-Class Reactor Crest">
+  <defs>
+    <radialGradient id="embGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#F59E0B" stop-opacity="0.38"/>
+      <stop offset="55%" stop-color="#22D3EE" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#050811" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <circle cx="110" cy="110" r="106" fill="url(#embGlow)"/>
+  <g transform="translate(110,110)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="34s" repeatCount="indefinite"/>
+      <path d="M 0.00 -86.00 L 9.41 -95.54 L 18.73 -94.16 L 24.96 -82.30 L 32.91 -79.45 L 45.25 -84.66 L 53.33 -79.82 L 54.56 -66.48 L 60.81 -60.81 L 74.21 -60.90 L 79.82 -53.33 L 75.85 -40.54 L 79.45 -32.91 L 91.87 -27.87 L 94.16 -18.73 L 85.59 -8.43 L 86.00 0.00 L 95.54 9.41 L 94.16 18.73 L 82.30 24.96 L 79.45 32.91 L 84.66 45.25 L 79.82 53.33 L 66.48 54.56 L 60.81 60.81 L 60.90 74.21 L 53.33 79.82 L 40.54 75.85 L 32.91 79.45 L 27.87 91.87 L 18.73 94.16 L 8.43 85.59 L 0.00 86.00 L -9.41 95.54 L -18.73 94.16 L -24.96 82.30 L -32.91 79.45 L -45.25 84.66 L -53.33 79.82 L -54.56 66.48 L -60.81 60.81 L -74.21 60.90 L -79.82 53.33 L -75.85 40.54 L -79.45 32.91 L -91.87 27.87 L -94.16 18.73 L -85.59 8.43 L -86.00 0.00 L -95.54 -9.41 L -94.16 -18.73 L -82.30 -24.96 L -79.45 -32.91 L -84.66 -45.25 L -79.82 -53.33 L -66.48 -54.56 L -60.81 -60.81 L -60.90 -74.21 L -53.33 -79.82 L -40.54 -75.85 L -32.91 -79.45 L -27.87 -91.87 L -18.73 -94.16 L -8.43 -85.59 Z" fill="#0A1324" stroke="#67E8F9" stroke-width="1.6"/>
+      <polygon points="29.1,-70.2 70.2,-29.1 70.2,29.1 29.1,70.2 -29.1,70.2 -70.2,29.1 -70.2,-29.1 -29.1,-70.2" fill="none" stroke="#FBBF24" stroke-width="1.2" stroke-dasharray="12 6"/>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="360 0 0" to="0 0 0" dur="22s" repeatCount="indefinite"/>
+      <polygon points="0.0,-66.0 11.1,-26.8 46.7,-46.7 26.8,-11.1 66.0,0.0 26.8,11.1 46.7,46.7 11.1,26.8 0.0,66.0 -11.1,26.8 -46.7,46.7 -26.8,11.1 -66.0,0.0 -26.8,-11.1 -46.7,-46.7 -11.1,-26.8" fill="#0E1A30" stroke="#22D3EE" stroke-width="1.8"/>
+      <polygon points="0.0,-46.0 7.7,-18.5 32.5,-32.5 18.5,-7.7 46.0,0.0 18.5,7.7 32.5,32.5 7.7,18.5 0.0,46.0 -7.7,18.5 -32.5,32.5 -18.5,7.7 -46.0,0.0 -18.5,-7.7 -32.5,-32.5 -7.7,-18.5" fill="#070C16" stroke="#FBBF24" stroke-width="1.3"/>
+    </g>
+    <circle cx="0" cy="0" r="21" fill="#090E1A" stroke="#FBBF24" stroke-width="2"/>
+    <circle cx="0" cy="0" r="10" fill="#FBBF24">
+      <animate attributeName="r" values="8;12;8" dur="2.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.75;1;0.75" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="0" r="3.5" fill="#FFFBEB"/>
+  </g>
+</svg>

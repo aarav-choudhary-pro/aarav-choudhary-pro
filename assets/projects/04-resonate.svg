@@ -191,4 +191,14 @@
       <animate attributeName="y" values="287;284;287" dur="2.5s" repeatCount="indefinite"/>
     </rect>
   </g>
+
+  <!-- On-Load Spline Diagnostic Scan Beam -->
+  <rect id="cardBootBeam" x="4" y="4" width="1192" height="2.2" fill="#67E8F9" opacity="0" pointer-events="none">
+    <animate attributeName="y" from="8" to="328" dur="1.15s" begin="0.05s" fill="freeze"
+             calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1"/>
+    <animate attributeName="opacity" values="0;0.75;0.55;0" keyTimes="0;0.15;0.75;1" dur="1.15s" begin="0.05s" fill="freeze"/>
+  </rect>
+  <path id="resRing" d="M 885 110 A 110 110 0 1 1 884.9 110 Z" fill="none"/>
+  <circle r="3.5" fill="#C084FC" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="6.2s" repeatCount="indefinite"/><animateMotion dur="6.2s" repeatCount="indefinite"><mpath href="#resRing"/></animateMotion></circle>
+  <circle r="3.2" fill="#F472B6" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="6.2s" begin="3.1s" repeatCount="indefinite"/><animateMotion dur="6.2s" begin="3.1s" repeatCount="indefinite"><mpath href="#resRing"/></animateMotion></circle>
 </svg>

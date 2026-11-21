@@ -33,4 +33,11 @@
 
   <line x1="24" y1="250" x2="566" y2="250" stroke="#1E293B" stroke-width="1"/>
   <text x="24" y="271" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="10" font-weight="700" fill="#94A3B8">▸ LAUNCH LIVE: vigilant-ashen.vercel.app →</text>
+
+  <!-- On-Load Spline Diagnostic Scan Beam -->
+  <rect id="cardBootBeam" x="4" y="4" width="582" height="2.2" fill="#67E8F9" opacity="0" pointer-events="none">
+    <animate attributeName="y" from="8" to="278" dur="1.15s" begin="0.05s" fill="freeze"
+             calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1"/>
+    <animate attributeName="opacity" values="0;0.75;0.55;0" keyTimes="0;0.15;0.75;1" dur="1.15s" begin="0.05s" fill="freeze"/>
+  </rect>
 </svg>

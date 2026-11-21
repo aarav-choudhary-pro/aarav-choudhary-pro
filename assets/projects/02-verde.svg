@@ -131,4 +131,15 @@
     <text x="1051" y="245" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="9.5" font-weight="700" fill="#34D399">TFLITE INT8 VISION + PLANT DOCTOR</text>
     <text x="1051" y="264" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="9" fill="#94A3B8">AUTONOMOUS DOSING · ZERO HUMAN LOOP</text>
   </g>
+
+  <!-- On-Load Spline Diagnostic Scan Beam -->
+  <rect id="cardBootBeam" x="4" y="4" width="1192" height="2.2" fill="#67E8F9" opacity="0" pointer-events="none">
+    <animate attributeName="y" from="8" to="328" dur="1.15s" begin="0.05s" fill="freeze"
+             calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1"/>
+    <animate attributeName="opacity" values="0;0.75;0.55;0" keyTimes="0;0.15;0.75;1" dur="1.15s" begin="0.05s" fill="freeze"/>
+  </rect>
+  <path id="pcbFlow1" d="M 792 126 L 814 126 L 836 168 L 932 168 L 952 195 L 985 195" fill="none"/>
+  <path id="pcbFlow2" d="M 792 214 L 836 214 L 932 195 L 958 248 L 985 248" fill="none"/>
+  <circle r="3.5" fill="#FBBF24" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="2.2s" repeatCount="indefinite"/><animateMotion dur="2.2s" repeatCount="indefinite"><mpath href="#pcbFlow1"/></animateMotion></circle>
+  <circle r="3.5" fill="#34D399" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="2.6s" begin="0.9s" repeatCount="indefinite"/><animateMotion dur="2.6s" begin="0.9s" repeatCount="indefinite"><mpath href="#pcbFlow2"/></animateMotion></circle>
 </svg>
