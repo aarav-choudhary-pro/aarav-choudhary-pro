@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330">
+  <defs>
+    <style>
+      @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    </style>
+    <linearGradient id="cardBg_05" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060A13"/>
+      <stop offset="55%" stop-color="#0A1120"/>
+      <stop offset="100%" stop-color="#070B15"/>
+    </linearGradient>
+    <radialGradient id="artGlow_05" cx="82%" cy="50%" r="36%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#060A13" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Card Frame -->
+  <rect x="2" y="2" width="1196" height="326" rx="16" fill="url(#cardBg_05)" stroke="#1E293B" stroke-width="1.6"/>
+  <rect x="2" y="2" width="1196" height="326" rx="16" fill="url(#artGlow_05)"/>
+  <rect x="2" y="26" width="4" height="278" rx="2" fill="#38BDF8"/>
+
+  <!-- Top Kicker & Live Status Pill -->
+  <text x="36" y="36" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="700" fill="#38BDF8" letter-spacing="1.4">05 // DAV SCREEN2SKILL 2026 · GATECCA · GURUGRAM</text>
+  <rect x="598" y="18" width="110" height="25" rx="12.5" fill="#081829" stroke="#38BDF8" stroke-width="1.1" stroke-opacity="0.7"/>
+  <circle cx="612" cy="30.5" r="3.8" fill="#38BDF8">
+    <animate attributeName="opacity" values="1;0.35;1" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="623" y="34.5" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="10.5" font-weight="700" fill="#38BDF8">v9.9.1 LIVE</text>
+
+  <!-- Title & Subtitle -->
+  <text x="36" y="76" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="30" font-weight="800" fill="#FFFFFF" letter-spacing="0.4">SKILLVERSE</text>
+  <text x="36" y="101" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="14" font-weight="500" fill="#94A3B8">Research-backed EdTech platform converting teen screen addiction into measurable AI-guided skills.</text>
+
+  <!-- Aarav Role Highlight Box -->
+  <rect x="36" y="116" width="672" height="62" rx="10" fill="#081829" stroke="#38BDF8" stroke-width="1.1" stroke-opacity="0.48"/>
+  <text x="52" y="138" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="700" fill="#38BDF8" letter-spacing="0.8">MY ROLE // ID: 002 // VISIONARY — IDEATOR, EMPIRICAL SURVEY &amp; STRATEGY</text>
+  <text x="52" y="162" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="11.6" font-weight="600" fill="#F8FAFC">Led the 250+ student behavioral survey &amp; product strategy across 8 Gemini AI tools.</text>
+
+  <!-- Key Specs Bullets -->
+  <circle cx="43" cy="204" r="2.8" fill="#38BDF8"/><text x="54" y="208" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="12.5" fill="#CBD5E1">Every product decision anchored in primary survey data from 250+ students, teachers &amp; parents.</text><circle cx="43" cy="226" r="2.8" fill="#38BDF8"/><text x="54" y="230" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="12.5" fill="#CBD5E1">34 routes, 8 Gemini 2.5 Flash analysis pipelines &amp; live Supabase data visualisations.</text>
+
+  <!-- Tech Stack Chips -->
+  <rect x="36" y="266" width="164" height="23" rx="6" fill="#0D1628" stroke="#38BDF8" stroke-width="1" stroke-opacity="0.42"/><text x="118.0" y="281.2" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="10.2" font-weight="600" fill="#E2E8F0">Next.js + TypeScript</text><rect x="207" y="266" width="135" height="23" rx="6" fill="#0D1628" stroke="#38BDF8" stroke-width="1" stroke-opacity="0.42"/><text x="274.5" y="281.2" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="10.2" font-weight="600" fill="#E2E8F0">Gemini 2.5 Flash</text><rect x="349" y="266" width="142" height="23" rx="6" fill="#0D1628" stroke="#38BDF8" stroke-width="1" stroke-opacity="0.42"/><text x="420.0" y="281.2" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="10.2" font-weight="600" fill="#E2E8F0">Supabase Realtime</text><rect x="498" y="266" width="149" height="23" rx="6" fill="#0D1628" stroke="#38BDF8" stroke-width="1" stroke-opacity="0.42"/><text x="572.5" y="281.2" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="10.2" font-weight="600" fill="#E2E8F0">Data Visualisation</text><rect x="654" y="266" width="70" height="23" rx="6" fill="#0D1628" stroke="#38BDF8" stroke-width="1" stroke-opacity="0.42"/><text x="689.0" y="281.2" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="10.2" font-weight="600" fill="#E2E8F0">WCAG UX</text>
+
+  <!-- Bottom Prompt Line -->
+  <line x1="36" y1="302" x2="708" y2="302" stroke="#1E293B" stroke-width="1"/>
+  <text x="36" y="322" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="10.8" font-weight="600" fill="#94A3B8">▸ PRIMARY LIVE PLATFORM (skillverse-xi.vercel.app) + PRODUCTION MIRROR BELOW</text>
+
+  <!-- Vertical Schematic Divider -->
+  <line x1="734" y1="24" x2="734" y2="306" stroke="#1E293B" stroke-width="1.2" stroke-dasharray="4 6"/>
+
+  <!-- Right Bespoke Animated Schematic -->
+  
+  <g>
+    <text x="760" y="34" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="10" font-weight="700" fill="#38BDF8" letter-spacing="1.2"> EMPIRICAL STUDY (n=250+) + 8 GEMINI PIPELINES</text>
+
+    <!-- Left Panel: Screen-to-Skill Conversion Chart -->
+    <rect x="760" y="50" width="222" height="198" rx="10" fill="#081121" stroke="#38BDF8" stroke-width="1.2" stroke-opacity="0.5"/>
+    <text x="774" y="72" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="9.5" font-weight="700" fill="#E2E8F0">SCREEN → SKILL SHIFT</text>
+    <circle cx="780" cy="88" r="4" fill="#F43F5E"/><text x="790" y="91" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="8.5" fill="#94A3B8">Doomscroll</text>
+    <circle cx="866" cy="88" r="4" fill="#10B981"/><text x="876" y="91" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="8.5" fill="#94A3B8">Skill Build</text>
+    <line x1="772" y1="218" x2="972" y2="218" stroke="#1E293B" stroke-width="1.2"/>
+    
+    <rect x="776" y="160" width="10" height="58" rx="3" fill="#F43F5E" opacity="0.75"/>
+    <rect x="788" y="190" width="10" height="28" rx="3" fill="#10B981">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2.00s" repeatCount="indefinite"/>
+    </rect>
+    <text x="787" y="234" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="8.5" fill="#94A3B8">Mon</text>
+    
+    <rect x="810" y="166" width="10" height="52" rx="3" fill="#F43F5E" opacity="0.75"/>
+    <rect x="822" y="182" width="10" height="36" rx="3" fill="#10B981">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2.25s" repeatCount="indefinite"/>
+    </rect>
+    <text x="821" y="234" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="8.5" fill="#94A3B8">Tue</text>
+    
+    <rect x="844" y="174" width="10" height="44" rx="3" fill="#F43F5E" opacity="0.75"/>
+    <rect x="856" y="170" width="10" height="48" rx="3" fill="#10B981">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2.50s" repeatCount="indefinite"/>
+    </rect>
+    <text x="855" y="234" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="8.5" fill="#94A3B8">Wed</text>
+    
+    <rect x="878" y="184" width="10" height="34" rx="3" fill="#F43F5E" opacity="0.75"/>
+    <rect x="890" y="158" width="10" height="60" rx="3" fill="#10B981">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2.75s" repeatCount="indefinite"/>
+    </rect>
+    <text x="889" y="234" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="8.5" fill="#94A3B8">Thu</text>
+    
+    <rect x="912" y="194" width="10" height="24" rx="3" fill="#F43F5E" opacity="0.75"/>
+    <rect x="924" y="146" width="10" height="72" rx="3" fill="#10B981">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="3.00s" repeatCount="indefinite"/>
+    </rect>
+    <text x="923" y="234" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="8.5" fill="#94A3B8">Fri</text>
+    
+    <rect x="946" y="200" width="10" height="18" rx="3" fill="#F43F5E" opacity="0.75"/>
+    <rect x="958" y="136" width="10" height="82" rx="3" fill="#10B981">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="3.25s" repeatCount="indefinite"/>
+    </rect>
+    <text x="957" y="234" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="8.5" fill="#94A3B8">Sat</text>
+    
+
+    <!-- Right Panel: 8 Gemini 2.5 Flash Pipelines -->
+    <rect x="994" y="50" width="180" height="198" rx="10" fill="#0B1026" stroke="#818CF8" stroke-width="1.2" stroke-opacity="0.6"/>
+    <text x="1084" y="72" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="9.5" font-weight="700" fill="#A5B4FC">8 AI PIPELINES</text>
+    <circle cx="1084" cy="148" r="52" fill="none" stroke="#6366F1" stroke-width="1.2" stroke-dasharray="5 5">
+      <animateTransform attributeName="transform" type="rotate" from="0 1084 148" to="360 1084 148" dur="28s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1084.0" cy="96.0" r="5.5" fill="#38BDF8" stroke="#0B1026" stroke-width="1.5"/><circle cx="1120.8" cy="111.2" r="5.5" fill="#38BDF8" stroke="#0B1026" stroke-width="1.5"/><circle cx="1136.0" cy="148.0" r="5.5" fill="#38BDF8" stroke="#0B1026" stroke-width="1.5"/><circle cx="1120.8" cy="184.8" r="5.5" fill="#38BDF8" stroke="#0B1026" stroke-width="1.5"/><circle cx="1084.0" cy="200.0" r="5.5" fill="#38BDF8" stroke="#0B1026" stroke-width="1.5"/><circle cx="1047.2" cy="184.8" r="5.5" fill="#38BDF8" stroke="#0B1026" stroke-width="1.5"/><circle cx="1032.0" cy="148.0" r="5.5" fill="#38BDF8" stroke="#0B1026" stroke-width="1.5"/><circle cx="1047.2" cy="111.2" r="5.5" fill="#38BDF8" stroke="#0B1026" stroke-width="1.5"/>
+    <circle cx="1084" cy="148" r="24" fill="#1E1B4B" stroke="#818CF8" stroke-width="1.6"/>
+    <text x="1084" y="146" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="8.5" font-weight="700" fill="#FFFFFF">GEMINI</text>
+    <text x="1084" y="157" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="8" fill="#38BDF8">2.5 FLASH</text>
+    <text x="1084" y="232" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="9" fill="#94A3B8">34 NEXT.JS ROUTES</text>
+
+    <!-- Bottom Dataset Strip -->
+    <rect x="760" y="260" width="414" height="46" rx="8" fill="#07101E" stroke="#1E293B" stroke-width="1.2"/>
+    <text x="967" y="280" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="9.8" font-weight="700" fill="#38BDF8">250+ STUDENT SURVEY COHORT · SUPABASE REALTIME ANALYTICS</text>
+    <text x="967" y="297" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="9" fill="#94A3B8">SCREEN2SKILL 2026 · GATECCA · GURUGRAM</text>
+  </g>
+</svg>

@@ -1,0 +1,194 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340">
+  <defs>
+    <style>
+      @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    </style>
+    <linearGradient id="cardBg_04" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060A13"/>
+      <stop offset="55%" stop-color="#0A1120"/>
+      <stop offset="100%" stop-color="#070B15"/>
+    </linearGradient>
+    <radialGradient id="artGlow_04" cx="82%" cy="50%" r="36%">
+      <stop offset="0%" stop-color="#C084FC" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#060A13" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Card Frame -->
+  <rect x="2" y="2" width="1196" height="336" rx="16" fill="url(#cardBg_04)" stroke="#1E293B" stroke-width="1.6"/>
+  <rect x="2" y="2" width="1196" height="336" rx="16" fill="url(#artGlow_04)"/>
+  <rect x="2" y="26" width="4" height="288" rx="2" fill="#C084FC"/>
+
+  <!-- Top Kicker & Live Status Pill -->
+  <text x="36" y="36" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="700" fill="#C084FC" letter-spacing="1.4">04 // FORU.MS × v0 BY VERCEL HACKATHON · BHARAT INNOVATION</text>
+  <rect x="590" y="18" width="118" height="25" rx="12.5" fill="#180D29" stroke="#C084FC" stroke-width="1.1" stroke-opacity="0.7"/>
+  <circle cx="604" cy="30.5" r="3.8" fill="#C084FC">
+    <animate attributeName="opacity" values="1;0.35;1" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="615" y="34.5" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="10.5" font-weight="700" fill="#C084FC">5 LIVE LINKS</text>
+
+  <!-- Title & Subtitle -->
+  <text x="36" y="76" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="30" font-weight="800" fill="#FFFFFF" letter-spacing="0.4">RESONATE — Algorithmic Sanctuary</text>
+  <text x="36" y="101" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="14" font-weight="500" fill="#94A3B8">Anti-doomscroll social ecosystem: zero likes, 30-second voice Echoes woven into shared Tapestries.</text>
+
+  <!-- Aarav Role Highlight Box -->
+  <rect x="36" y="116" width="672" height="62" rx="10" fill="#180D29" stroke="#C084FC" stroke-width="1.1" stroke-opacity="0.48"/>
+  <text x="52" y="138" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="700" fill="#C084FC" letter-spacing="0.8">MY ROLE // CO-FOUNDER · ID: 002 // VISIONARY (PRODUCT, BACKEND &amp; EMPATHY AI)</text>
+  <text x="52" y="162" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="11.6" font-weight="600" fill="#F8FAFC">Co-founded with Anuj — led 5-app emotional UX, backend sprints, AI quests &amp; $50M TAM model.</text>
+
+  <!-- Key Specs Bullets -->
+  <circle cx="43" cy="204" r="2.8" fill="#C084FC"/><text x="54" y="208" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="12.5" fill="#CBD5E1">Replaces vanity metrics with Gemini tone/authenticity verification, Good Quests &amp; Tapestry constellations.</text><circle cx="43" cy="226" r="2.8" fill="#C084FC"/><text x="54" y="230" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="12.5" fill="#CBD5E1">Ships across 52 routes with custom GLSL shaders (heroField · sanctuaryOrb · soundWave) &amp; Bolt/Figma builds.</text>
+
+  <!-- Tech Stack Chips -->
+  <rect x="36" y="266" width="128" height="23" rx="6" fill="#0D1628" stroke="#C084FC" stroke-width="1" stroke-opacity="0.42"/><text x="100.0" y="281.2" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="10.2" font-weight="600" fill="#E2E8F0">React + Next.js</text><rect x="171" y="266" width="156" height="23" rx="6" fill="#0D1628" stroke="#C084FC" stroke-width="1" stroke-opacity="0.42"/><text x="249.0" y="281.2" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="10.2" font-weight="600" fill="#E2E8F0">Custom GLSL Shaders</text><rect x="334" y="266" width="120" height="23" rx="6" fill="#0D1628" stroke="#C084FC" stroke-width="1" stroke-opacity="0.42"/><text x="394.0" y="281.2" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="10.2" font-weight="600" fill="#E2E8F0">Three.js / R3F</text><rect x="461" y="266" width="142" height="23" rx="6" fill="#0D1628" stroke="#C084FC" stroke-width="1" stroke-opacity="0.42"/><text x="532.0" y="281.2" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="10.2" font-weight="600" fill="#E2E8F0">Gemini Empathy AI</text><rect x="610" y="266" width="48" height="23" rx="6" fill="#0D1628" stroke="#C084FC" stroke-width="1" stroke-opacity="0.42"/><text x="634.0" y="281.2" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="10.2" font-weight="600" fill="#E2E8F0">GSAP</text>
+
+  <!-- Bottom Prompt Line -->
+  <line x1="36" y1="302" x2="708" y2="302" stroke="#1E293B" stroke-width="1"/>
+  <text x="36" y="322" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="10.8" font-weight="600" fill="#94A3B8">▸ 5 LIVE DESTINATIONS BELOW: SANCTUARY v1 · v2 (52-ROUTE) · TAPESTRY HUB · FIGMA DECK · DEVPOST</text>
+
+  <!-- Vertical Schematic Divider -->
+  <line x1="734" y1="24" x2="734" y2="316" stroke="#1E293B" stroke-width="1.2" stroke-dasharray="4 6"/>
+
+  <!-- Right Bespoke Animated Schematic -->
+  
+  <g>
+    <text x="760" y="34" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="10" font-weight="700" fill="#C084FC" letter-spacing="1.2">5-APP CONSTELLATION // 30s ECHOES → TAPESTRIES</text>
+
+    <line x1="966" y1="68" x2="1078" y2="118" stroke="#A855F7" stroke-width="1.2" stroke-dasharray="4 4" stroke-opacity="0.55"/><line x1="966" y1="152" x2="966" y2="68" stroke="#EC4899" stroke-width="1" stroke-opacity="0.35"/><line x1="1078" y1="118" x2="1042" y2="224" stroke="#A855F7" stroke-width="1.2" stroke-dasharray="4 4" stroke-opacity="0.55"/><line x1="966" y1="152" x2="1078" y2="118" stroke="#EC4899" stroke-width="1" stroke-opacity="0.35"/><line x1="1042" y1="224" x2="890" y2="224" stroke="#A855F7" stroke-width="1.2" stroke-dasharray="4 4" stroke-opacity="0.55"/><line x1="966" y1="152" x2="1042" y2="224" stroke="#EC4899" stroke-width="1" stroke-opacity="0.35"/><line x1="890" y1="224" x2="854" y2="118" stroke="#A855F7" stroke-width="1.2" stroke-dasharray="4 4" stroke-opacity="0.55"/><line x1="966" y1="152" x2="890" y2="224" stroke="#EC4899" stroke-width="1" stroke-opacity="0.35"/><line x1="854" y1="118" x2="966" y2="68" stroke="#A855F7" stroke-width="1.2" stroke-dasharray="4 4" stroke-opacity="0.55"/><line x1="966" y1="152" x2="854" y2="118" stroke="#EC4899" stroke-width="1" stroke-opacity="0.35"/>
+
+    <!-- Central GLSL Sanctuary Orb -->
+    <circle cx="966" cy="152" r="34" fill="#1E1035" stroke="#EC4899" stroke-width="2"/>
+    <circle cx="966" cy="152" r="22" fill="#A855F7" opacity="0.55">
+      <animate attributeName="r" values="18;26;18" dur="3.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="966" y="156" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="9.5" font-weight="700" fill="#FFFFFF">GLSL ORB</text>
+
+    <!-- 5 Constellation Product Nodes -->
+    
+    <g transform="translate(914, 55)">
+      <rect x="0" y="0" width="104" height="26" rx="13" fill="#140D26" stroke="#C084FC" stroke-width="1.2"/>
+      <text x="52" y="16.5" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="9" font-weight="700" fill="#F3E8FF">QUEST APP</text>
+    </g>
+    
+    <g transform="translate(1026, 105)">
+      <rect x="0" y="0" width="104" height="26" rx="13" fill="#140D26" stroke="#C084FC" stroke-width="1.2"/>
+      <text x="52" y="16.5" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="9" font-weight="700" fill="#F3E8FF">ECHO STUDIO</text>
+    </g>
+    
+    <g transform="translate(990, 211)">
+      <rect x="0" y="0" width="104" height="26" rx="13" fill="#140D26" stroke="#C084FC" stroke-width="1.2"/>
+      <text x="52" y="16.5" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="9" font-weight="700" fill="#F3E8FF">TAPESTRY HUB</text>
+    </g>
+    
+    <g transform="translate(838, 211)">
+      <rect x="0" y="0" width="104" height="26" rx="13" fill="#140D26" stroke="#C084FC" stroke-width="1.2"/>
+      <text x="52" y="16.5" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="9" font-weight="700" fill="#F3E8FF">MIRAGE LAB</text>
+    </g>
+    
+    <g transform="translate(802, 105)">
+      <rect x="0" y="0" width="104" height="26" rx="13" fill="#140D26" stroke="#C084FC" stroke-width="1.2"/>
+      <text x="52" y="16.5" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="9" font-weight="700" fill="#F3E8FF">CIRCLES</text>
+    </g>
+    
+
+    <!-- 30s Voice Echo Waveform Strip -->
+    <rect x="760" y="264" width="412" height="52" rx="8" fill="#0D091A" stroke="#3B1D5E" stroke-width="1.2"/>
+    
+    <rect x="776" y="287" width="8" height="10" rx="3" fill="#C084FC" opacity="0.85">
+      <animate attributeName="height" values="10;18;10" dur="1.6s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="287;283;287" dur="1.6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="792" y="283" width="8" height="18" rx="3" fill="#C084FC" opacity="0.85">
+      <animate attributeName="height" values="18;10;18" dur="1.9s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="283;287;283" dur="1.9s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="808" y="280" width="8" height="24" rx="3" fill="#C084FC" opacity="0.85">
+      <animate attributeName="height" values="24;6;24" dur="2.2s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="280;289;280" dur="2.2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="824" y="280" width="8" height="25" rx="3" fill="#C084FC" opacity="0.85">
+      <animate attributeName="height" values="25;6;25" dur="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="280;289;280" dur="2.5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="840" y="281" width="8" height="22" rx="3" fill="#C084FC" opacity="0.85">
+      <animate attributeName="height" values="22;6;22" dur="2.8s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="281;289;281" dur="2.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="856" y="284" width="8" height="16" rx="3" fill="#C084FC" opacity="0.85">
+      <animate attributeName="height" values="16;12;16" dur="1.6s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="284;286;284" dur="1.6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="872" y="286" width="8" height="12" rx="3" fill="#C084FC" opacity="0.85">
+      <animate attributeName="height" values="12;16;12" dur="1.9s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="286;284;286" dur="1.9s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="888" y="282" width="8" height="20" rx="3" fill="#C084FC" opacity="0.85">
+      <animate attributeName="height" values="20;8;20" dur="2.2s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="282;288;282" dur="2.2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="904" y="280" width="8" height="25" rx="3" fill="#C084FC" opacity="0.85">
+      <animate attributeName="height" values="25;6;25" dur="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="280;289;280" dur="2.5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="920" y="280" width="8" height="25" rx="3" fill="#C084FC" opacity="0.85">
+      <animate attributeName="height" values="25;6;25" dur="2.8s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="280;289;280" dur="2.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="936" y="282" width="8" height="21" rx="3" fill="#C084FC" opacity="0.85">
+      <animate attributeName="height" values="21;7;21" dur="1.6s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="282;289;282" dur="1.6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="952" y="286" width="8" height="13" rx="3" fill="#C084FC" opacity="0.85">
+      <animate attributeName="height" values="13;15;13" dur="1.9s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="286;285;286" dur="1.9s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="968" y="285" width="8" height="14" rx="3" fill="#C084FC" opacity="0.85">
+      <animate attributeName="height" values="14;14;14" dur="2.2s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="285;285;285" dur="2.2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="984" y="281" width="8" height="22" rx="3" fill="#C084FC" opacity="0.85">
+      <animate attributeName="height" values="22;6;22" dur="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="281;289;281" dur="2.5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="1000" y="280" width="8" height="25" rx="3" fill="#C084FC" opacity="0.85">
+      <animate attributeName="height" values="25;6;25" dur="2.8s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="280;289;280" dur="2.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="1016" y="280" width="8" height="24" rx="3" fill="#C084FC" opacity="0.85">
+      <animate attributeName="height" values="24;6;24" dur="1.6s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="280;289;280" dur="1.6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="1032" y="283" width="8" height="19" rx="3" fill="#C084FC" opacity="0.85">
+      <animate attributeName="height" values="19;9;19" dur="1.9s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="283;288;283" dur="1.9s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="1048" y="287" width="8" height="11" rx="3" fill="#C084FC" opacity="0.85">
+      <animate attributeName="height" values="11;17;11" dur="2.2s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="287;284;287" dur="2.2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="1064" y="284" width="8" height="17" rx="3" fill="#C084FC" opacity="0.85">
+      <animate attributeName="height" values="17;11;17" dur="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="284;287;284" dur="2.5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="1080" y="281" width="8" height="23" rx="3" fill="#C084FC" opacity="0.85">
+      <animate attributeName="height" values="23;6;23" dur="2.8s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="281;289;281" dur="2.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="1096" y="280" width="8" height="25" rx="3" fill="#C084FC" opacity="0.85">
+      <animate attributeName="height" values="25;6;25" dur="1.6s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="280;289;280" dur="1.6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="1112" y="281" width="8" height="23" rx="3" fill="#C084FC" opacity="0.85">
+      <animate attributeName="height" values="23;6;23" dur="1.9s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="281;289;281" dur="1.9s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="1128" y="284" width="8" height="17" rx="3" fill="#C084FC" opacity="0.85">
+      <animate attributeName="height" values="17;11;17" dur="2.2s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="284;287;284" dur="2.2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="1144" y="287" width="8" height="11" rx="3" fill="#C084FC" opacity="0.85">
+      <animate attributeName="height" values="11;17;11" dur="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="287;284;287" dur="2.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

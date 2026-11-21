@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 275" width="1200" height="275">
+  <rect x="2" y="2" width="1196" height="271" rx="16" fill="#070B14" stroke="#1E293B" stroke-width="1.6"/>
+  <text x="32" y="34" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="700" fill="#FBBF24" letter-spacing="1.6">BEYOND THE TERMINAL // HARDWARE ROOTS, PSYCHOLOGY, MUN &amp; HACKATHON CIRCUIT</text>
+  <text x="1168" y="34" text-anchor="end" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="11" fill="#67E8F9">THE FULL ARC · 2025 → 2026</text>
+
+  <!-- Timeline Rail -->
+  <line x1="50" y1="66" x2="1150" y2="66" stroke="#1E293B" stroke-width="2"/>
+  <line x1="50" y1="66" x2="1150" y2="66" stroke="#67E8F9" stroke-width="2" stroke-dasharray="10 14" stroke-opacity="0.5"/>
+  <circle cx="460" cy="66" r="4" fill="#FBBF24">
+    <animate attributeName="cx" values="50;1150;50" dur="9s" repeatCount="indefinite"/>
+  </circle>
+
+  
+    <g transform="translate(28, 82)">
+      <rect x="0" y="0" width="274" height="168" rx="12" fill="#0B1322" stroke="#34D399" stroke-width="1.3" stroke-opacity="0.55"/>
+      <circle cx="22" cy="-16" r="6" fill="#070B14" stroke="#34D399" stroke-width="2.5"/>
+      <text x="16" y="26" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="10" font-weight="700" fill="#34D399" letter-spacing="1">JAN 2025 · ORIGINS</text>
+      <text x="16" y="52" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="14.8" font-weight="800" fill="#F8FAFC">Smart Irrigation Hardware</text>
+      <line x1="16" y1="64" x2="258" y2="64" stroke="#1E293B" stroke-width="1"/>
+      <text x="16" y="86" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="12" fill="#CBD5E1">Automated soil-moisture sensing</text>
+      <text x="16" y="105" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="12" fill="#CBD5E1">and relay-pump prototype — the</text>
+      <text x="16" y="124" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="12" fill="#94A3B8">hardware spark that evolved into</text>
+      <text x="16" y="143" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="12" fill="#94A3B8">Project VERDE's 2-layer PCB.</text>
+    </g>
+    <g transform="translate(318, 82)">
+      <rect x="0" y="0" width="274" height="168" rx="12" fill="#0B1322" stroke="#C084FC" stroke-width="1.3" stroke-opacity="0.55"/>
+      <circle cx="22" cy="-16" r="6" fill="#070B14" stroke="#C084FC" stroke-width="2.5"/>
+      <text x="16" y="26" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="10" font-weight="700" fill="#C084FC" letter-spacing="1">GRADE 9–10 · RESEARCH</text>
+      <text x="16" y="52" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="14.8" font-weight="800" fill="#F8FAFC">DRM Memory Illusion Study</text>
+      <line x1="16" y1="64" x2="258" y2="64" stroke="#1E293B" stroke-width="1"/>
+      <text x="16" y="86" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="12" fill="#CBD5E1">Cognitive psychology study on</text>
+      <text x="16" y="105" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="12" fill="#CBD5E1">Deese-Roediger-McDermott false</text>
+      <text x="16" y="124" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="12" fill="#94A3B8">memory — the behavioral root</text>
+      <text x="16" y="143" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="12" fill="#94A3B8">behind Resonate &amp; SkillVerse.</text>
+    </g>
+    <g transform="translate(608, 82)">
+      <rect x="0" y="0" width="274" height="168" rx="12" fill="#0B1322" stroke="#FBBF24" stroke-width="1.3" stroke-opacity="0.55"/>
+      <circle cx="22" cy="-16" r="6" fill="#070B14" stroke="#FBBF24" stroke-width="2.5"/>
+      <text x="16" y="26" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="10" font-weight="700" fill="#FBBF24" letter-spacing="1">2025–26 · DEBATE &amp; QUIZ</text>
+      <text x="16" y="52" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="14.8" font-weight="800" fill="#F8FAFC">MUN &amp; Science Quiz Circuit</text>
+      <line x1="16" y1="64" x2="258" y2="64" stroke="#1E293B" stroke-width="1"/>
+      <text x="16" y="86" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="12" fill="#CBD5E1">IIT Delhi MUN '26 (DISEC Laws</text>
+      <text x="16" y="105" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="12" fill="#CBD5E1">on Autonomous Weapons), CCA MUN,</text>
+      <text x="16" y="124" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="12" fill="#94A3B8">Brahm Dutt MUN &amp; IndianOil</text>
+      <text x="16" y="143" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="12" fill="#94A3B8">Science Quiz contender.</text>
+    </g>
+    <g transform="translate(898, 82)">
+      <rect x="0" y="0" width="274" height="168" rx="12" fill="#0B1322" stroke="#38BDF8" stroke-width="1.3" stroke-opacity="0.55"/>
+      <circle cx="22" cy="-16" r="6" fill="#070B14" stroke="#38BDF8" stroke-width="2.5"/>
+      <text x="16" y="26" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="10" font-weight="700" fill="#38BDF8" letter-spacing="1">2025–26 · HACKATHONS</text>
+      <text x="16" y="52" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="14.8" font-weight="800" fill="#F8FAFC">Devpost &amp; Cyber Defense</text>
+      <line x1="16" y1="64" x2="258" y2="64" stroke="#1E293B" stroke-width="1"/>
+      <text x="16" y="86" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="12" fill="#CBD5E1">4 Devpost Badges (Generalist):</text>
+      <text x="16" y="105" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="12" fill="#CBD5E1">HackDays Delhi, Gemini 3 &amp;</text>
+      <text x="16" y="124" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="12" fill="#94A3B8">Foru.ms × v0 · GPCSSI Cyber</text>
+      <text x="16" y="143" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="12" fill="#94A3B8">Team CA-002 &amp; CA044.</text>
+    </g>
+</svg>

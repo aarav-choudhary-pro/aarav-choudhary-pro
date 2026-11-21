@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340">
+  <defs>
+    <style>
+      @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    </style>
+    <linearGradient id="cardBg_03" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060A13"/>
+      <stop offset="55%" stop-color="#0A1120"/>
+      <stop offset="100%" stop-color="#070B15"/>
+    </linearGradient>
+    <radialGradient id="artGlow_03" cx="82%" cy="50%" r="36%">
+      <stop offset="0%" stop-color="#4ADE80" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#060A13" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Card Frame -->
+  <rect x="2" y="2" width="1196" height="336" rx="16" fill="url(#cardBg_03)" stroke="#1E293B" stroke-width="1.6"/>
+  <rect x="2" y="2" width="1196" height="336" rx="16" fill="url(#artGlow_03)"/>
+  <rect x="2" y="26" width="4" height="288" rx="2" fill="#4ADE80"/>
+
+  <!-- Top Kicker & Live Status Pill -->
+  <text x="36" y="36" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="700" fill="#4ADE80" letter-spacing="1.4">03 // DAV E-COLOSSEUM '26 WINNER · BHARAT INNOVATION CHALLENGE</text>
+  <rect x="560" y="18" width="148" height="25" rx="12.5" fill="#081E12" stroke="#4ADE80" stroke-width="1.1" stroke-opacity="0.7"/>
+  <circle cx="574" cy="30.5" r="3.8" fill="#4ADE80">
+    <animate attributeName="opacity" values="1;0.35;1" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="585" y="34.5" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="10.5" font-weight="700" fill="#4ADE80">1ST PLACE WINNER</text>
+
+  <!-- Title & Subtitle -->
+  <text x="36" y="76" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="30" font-weight="800" fill="#FFFFFF" letter-spacing="0.4">NIRMAN</text>
+  <text x="36" y="101" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="14" font-weight="500" fill="#94A3B8">India's "Swiggy for E-Waste" — 4-role doorstep pickup, CPCB recycler verification &amp; live GIS routing.</text>
+
+  <!-- Aarav Role Highlight Box -->
+  <rect x="36" y="116" width="672" height="62" rx="10" fill="#081E12" stroke="#4ADE80" stroke-width="1.1" stroke-opacity="0.48"/>
+  <text x="52" y="138" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="700" fill="#4ADE80" letter-spacing="0.8">MY ROLE // CO-FOUNDER · PRODUCT VISIONARY &amp; GTM STRATEGIST (/team/aarav)</text>
+  <text x="52" y="162" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="11.6" font-weight="600" fill="#F8FAFC">Designed the 4-role marketplace, partner KYC + Leaflet pin flow &amp; winning DAV pitch.</text>
+
+  <!-- Key Specs Bullets -->
+  <circle cx="43" cy="204" r="2.8" fill="#4ADE80"/><text x="54" y="208" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="12.5" fill="#CBD5E1">Won 1st Place at DAV E-Colosseum '26, then scaled into a 16-act portfolio &amp; Bharat Innovation deck.</text><circle cx="43" cy="226" r="2.8" fill="#4ADE80"/><text x="54" y="230" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="12.5" fill="#CBD5E1">Connects households to 76 CPCB hubs &amp; 140 bins in 5 taps with EcoBot AI &amp; realtime impact charts.</text>
+
+  <!-- Tech Stack Chips -->
+  <rect x="36" y="266" width="164" height="23" rx="6" fill="#0D1628" stroke="#4ADE80" stroke-width="1" stroke-opacity="0.42"/><text x="118.0" y="281.2" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="10.2" font-weight="600" fill="#E2E8F0">Next.js + TypeScript</text><rect x="207" y="266" width="156" height="23" rx="6" fill="#0D1628" stroke="#4ADE80" stroke-width="1" stroke-opacity="0.42"/><text x="285.0" y="281.2" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="10.2" font-weight="600" fill="#E2E8F0">Leaflet + Nominatim</text><rect x="370" y="266" width="156" height="23" rx="6" fill="#0D1628" stroke="#4ADE80" stroke-width="1" stroke-opacity="0.42"/><text x="448.0" y="281.2" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="10.2" font-weight="600" fill="#E2E8F0">Firebase + Supabase</text><rect x="533" y="266" width="113" height="23" rx="6" fill="#0D1628" stroke="#4ADE80" stroke-width="1" stroke-opacity="0.42"/><text x="589.5" y="281.2" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="10.2" font-weight="600" fill="#E2E8F0">Gemini EcoBot</text><rect x="653" y="266" width="77" height="23" rx="6" fill="#0D1628" stroke="#4ADE80" stroke-width="1" stroke-opacity="0.42"/><text x="691.5" y="281.2" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="10.2" font-weight="600" fill="#E2E8F0">Three.js</text>
+
+  <!-- Bottom Prompt Line -->
+  <line x1="36" y1="302" x2="708" y2="302" stroke="#1E293B" stroke-width="1"/>
+  <text x="36" y="322" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="10.8" font-weight="600" fill="#94A3B8">▸ LIVE 16-ACT PORTFOLIO + DEDICATED /team/aarav PAGE + LIVE 4-ROLE APP BELOW</text>
+
+  <!-- Vertical Schematic Divider -->
+  <line x1="734" y1="24" x2="734" y2="316" stroke="#1E293B" stroke-width="1.2" stroke-dasharray="4 6"/>
+
+  <!-- Right Bespoke Animated Schematic -->
+  
+  <g>
+    <text x="760" y="34" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="10" font-weight="700" fill="#FBBF24" letter-spacing="1.1">GIS DISPATCH RADAR // 20.59°N 78.96°E · INDIA</text>
+
+    <!-- Winner Banner Badge -->
+    <rect x="1032" y="17" width="140" height="24" rx="12" fill="#261D08" stroke="#FBBF24" stroke-width="1.2"/>
+    <text x="1102" y="33" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="9.5" font-weight="700" fill="#FDE68A">1ST PLACE DAV</text>
+
+    <!-- Radar Circles -->
+    <circle cx="966" cy="162" r="94" fill="#071510" stroke="#22C55E" stroke-width="1.5" stroke-opacity="0.6"/>
+    <circle cx="966" cy="162" r="64" fill="none" stroke="#22C55E" stroke-width="1" stroke-dasharray="4 5" stroke-opacity="0.45"/>
+    <circle cx="966" cy="162" r="32" fill="none" stroke="#22C55E" stroke-width="1" stroke-opacity="0.4"/>
+    <line x1="872" y1="162" x2="1060" y2="162" stroke="#14532D" stroke-width="1"/>
+    <line x1="966" y1="68" x2="966" y2="256" stroke="#14532D" stroke-width="1"/>
+
+    <!-- Rotating Radar Sweep Line -->
+    <g>
+      <line x1="966" y1="162" x2="966" y2="70" stroke="#4ADE80" stroke-width="2.2"/>
+      <path d="M 966 162 L 966 70 A 92 92 0 0 0 912 88 Z" fill="#22C55E" opacity="0.18"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 966 162" to="360 966 162" dur="6s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- Verified CPCB Hub Pins -->
+    
+    <circle cx="935" cy="118" r="4.5" fill="#FBBF24"/>
+    <circle cx="935" cy="118" r="9" fill="none" stroke="#FBBF24" stroke-width="1.2">
+      <animate attributeName="r" values="4.5;13" dur="2.4s" begin="0.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0" dur="2.4s" begin="0.0s" repeatCount="indefinite"/>
+    </circle>
+    
+    <circle cx="998" cy="134" r="4.5" fill="#FBBF24"/>
+    <circle cx="998" cy="134" r="9" fill="none" stroke="#FBBF24" stroke-width="1.2">
+      <animate attributeName="r" values="4.5;13" dur="2.4s" begin="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0" dur="2.4s" begin="0.5s" repeatCount="indefinite"/>
+    </circle>
+    
+    <circle cx="952" cy="186" r="4.5" fill="#FBBF24"/>
+    <circle cx="952" cy="186" r="9" fill="none" stroke="#FBBF24" stroke-width="1.2">
+      <animate attributeName="r" values="4.5;13" dur="2.4s" begin="1.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0" dur="2.4s" begin="1.0s" repeatCount="indefinite"/>
+    </circle>
+    
+    <circle cx="1012" cy="192" r="4.5" fill="#FBBF24"/>
+    <circle cx="1012" cy="192" r="9" fill="none" stroke="#FBBF24" stroke-width="1.2">
+      <animate attributeName="r" values="4.5;13" dur="2.4s" begin="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0" dur="2.4s" begin="1.5s" repeatCount="indefinite"/>
+    </circle>
+    
+    <circle cx="966" cy="152" r="4.5" fill="#FBBF24"/>
+    <circle cx="966" cy="152" r="9" fill="none" stroke="#FBBF24" stroke-width="1.2">
+      <animate attributeName="r" values="4.5;13" dur="2.4s" begin="2.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0" dur="2.4s" begin="2.0s" repeatCount="indefinite"/>
+    </circle>
+    
+
+    <!-- Side Metrics Callouts -->
+    <rect x="756" y="76" width="102" height="50" rx="8" fill="#0B1912" stroke="#22C55E" stroke-width="1"/>
+    <text x="807" y="99" text-anchor="middle" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="16" font-weight="800" fill="#4ADE80">76 HUBS</text>
+    <text x="807" y="116" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="9" fill="#94A3B8">CPCB VERIFIED</text>
+
+    <rect x="1074" y="76" width="100" height="50" rx="8" fill="#1F1808" stroke="#FBBF24" stroke-width="1"/>
+    <text x="1124" y="99" text-anchor="middle" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="16" font-weight="800" fill="#FBBF24">14.14L T</text>
+    <text x="1124" y="116" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="9" fill="#94A3B8">INDIA E-WASTE</text>
+
+    <rect x="756" y="196" width="102" height="50" rx="8" fill="#0B1912" stroke="#22C55E" stroke-width="1"/>
+    <text x="807" y="219" text-anchor="middle" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="16" font-weight="800" fill="#4ADE80">140 BINS</text>
+    <text x="807" y="236" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="9" fill="#94A3B8">LIVE LEAFLET</text>
+
+    <rect x="1074" y="196" width="100" height="50" rx="8" fill="#0B1912" stroke="#22C55E" stroke-width="1"/>
+    <text x="1124" y="219" text-anchor="middle" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="16" font-weight="800" fill="#4ADE80">5-TAP</text>
+    <text x="1124" y="236" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="9" fill="#94A3B8">DOOR PICKUP</text>
+
+    <!-- 4-Role Pipeline Strip -->
+    <rect x="756" y="268" width="418" height="46" rx="8" fill="#08121D" stroke="#1E293B" stroke-width="1.2"/>
+    <text x="965" y="287" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="9.8" font-weight="700" fill="#4ADE80">4-ROLE RBAC // USER → PARTNER APPEAL → ADMIN VERIFY → OWNER</text>
+    <text x="965" y="304" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="9" fill="#94A3B8">NOMINATIM GEOCODING · DRAGGABLE PIN · ECOBOT AI</text>
+  </g>
+</svg>
