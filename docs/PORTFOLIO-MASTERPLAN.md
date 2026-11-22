@@ -56,7 +56,8 @@ Instead of static PNG mockups, **every flagship project is presented as a playab
 - **Obsidian & Project Vikas Vault**: Dual showcase switching between Imperial 3D Three.js tactical telemetry (*TS '26 Prelims Path 2*) and India's Clean-Tech 2047 roadmap (*TechNova 2047*).
 
 ### Room 06 · CIVIC IMPACT & SOLO BUILDS — The Internship & Solo Engineering Wall
-- **CRY — Child Rights & You (`act-4-aarav-ycc.vercel.app`)**: Interactive showcase of your Youth Change Champions '26 communication analysis & satirical *Homework Helmet* invention, alongside GoSharpener civic internship highlights.
+- **GoSharpener × SOCH (`soch-wake-up.vercel.app`)**: Interactive showcase of the official *"Let's Wake Up"* youth awareness platform (`5,00,000+` lives reached, `280+` sessions, `18+` Indian states, `8` classroom modules).
+- **CRY — Child Rights & You (`act-4-aarav-ycc.vercel.app`, `activity-3-ycc.vercel.app`, `act01-growingup.vercel.app`)**: Youth Change Champions '26 trilogy — Week 4 policy & satirical *Homework Helmet* Chindogu, Week 3 OnlineSafety MissionControl + 48h YouTube algorithm audit, and Act 01 Growing Up.
 - **Vigilant AI (`vigilant-ashen.vercel.app`)**: Live demo of phishing/scam triage & cyber-intelligence workflow (*GPCSSI `CA-002 & CA044`*).
 - **Quiz Mastermind (`quiz-mastermind-aarav.vercel.app`)**: Embedded **3-question live lightning round** pulled straight from your **1,095-question** SST + GK bank right inside the portfolio!
 
