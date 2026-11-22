@@ -52,15 +52,13 @@ Instead of static PNG mockups, **every flagship project is presented as a playab
 - **Interactive Widget**: Tap any emotion state (*Calm · Vulnerable · Grateful · Electric*) to morph a live **WebGL / Canvas shader orb** and illuminate how raw 30-second voice **Echoes** weave into **Tapestries** across all 5 products (*Quest · Echo Studio · Tapestry Hub · Mirage Lab · Circles*).
 - **5 Live Launch Doors**: Sanctuary v1 · 52-Route GLSL v2 · Tapestry Hub (`bolt.host`) · Executive Pitchdeck (`figma.site`) · Devpost Submission (`Foru.ms × v0`).
 
-### Room 05 · SKILLVERSE, OBSIDIAN & PROJECT VIKAS — Research & Systems Trio
-- **SkillVerse Explorer**: Interactive slider over your **250+ student survey findings** showing passive doomscroll decay vs. active skill conversion across **8 Gemini 2.5 Flash pipelines** (`skillverse-xi.vercel.app`).
-- **Obsidian & Project Vikas Vault**: Dual showcase switching between Imperial tactical telemetry (*TS '26 Prelims Path 2*) and India's Tricolor Clean-Tech 2047 roadmap (*TechNova 2047*).
+### Room 05 · OBSIDIAN & PROJECT VIKAS — Tactical & National Systems Duo
+- **Obsidian & Project Vikas Vault**: Dual showcase switching between Imperial 3D Three.js tactical telemetry (*TS '26 Prelims Path 2*) and India's Clean-Tech 2047 roadmap (*TechNova 2047*).
 
 ### Room 06 · CIVIC IMPACT & SOLO BUILDS — The Internship & Solo Engineering Wall
-- **Wake Up SOCH (`soch-wake-up.vercel.app`)**: Story + metrics of your GoSharpener × SOCH Web Dev Internship (**5,00,000+ people reached**).
-- **CRY — Child Rights & You (`YCC '26 Trilogy`)**: Interactive 3-tab preview of *Act 01 Growing Up*, *Act 03 Behind Closed Doors*, and *Act 04 Child Labor Action Hub*.
-- **Vigilant AI (`vigilant-ashen.vercel.app`)**: Live demo of phishing/scam triage & 1930 emergency workflow (*GPCSSI `CA-002 & CA044`*).
-- **Quiz Mastermind (`quiz-mastermind-aarav.vercel.app`)**: Embedded **3-question live lightning round** pulled straight from your **1,095-question** SST + GK JSON bank right inside the portfolio!
+- **CRY — Child Rights & You (`act-4-aarav-ycc.vercel.app`)**: Interactive showcase of your Youth Change Champions '26 communication analysis & satirical *Homework Helmet* invention, alongside GoSharpener civic internship highlights.
+- **Vigilant AI (`vigilant-ashen.vercel.app`)**: Live demo of phishing/scam triage & cyber-intelligence workflow (*GPCSSI `CA-002 & CA044`*).
+- **Quiz Mastermind (`quiz-mastermind-aarav.vercel.app`)**: Embedded **3-question live lightning round** pulled straight from your **1,095-question** SST + GK bank right inside the portfolio!
 
 ### Room 07 · THINKING, DEBATE & HARDWARE ORIGINS — What Makes You Tick
 - **Jan 2025 · Smart Irrigation Prototype**: Photos/diagram of your earliest automated soil-moisture pump build — proving a real multi-year hardware progression into *Verde*.

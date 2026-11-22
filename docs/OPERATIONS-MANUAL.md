@@ -41,9 +41,9 @@ Download any of these files from [`/pfp`](../pfp) and click **Edit** on your Git
     ```text
     ID: 002 · Product, Story & 2-Layer KiCad Hardware · Co-Founder @ Sanctum, Verde, Nirmaan (DAV '26 Winner) & Resonate · Ex-Intern @ SOCH (5L+) & CRY · CCA
     ```
-  - **Option B (Punchy & Iconic, 144 chars)**:
+  - **Option B (Punchy & Iconic, 134 chars)**:
     ```text
-    Where 2-layer silicon, behavioral UX & the 8-minute hook meet · Sanctum · Verde · Nirmaan · Resonate · SkillVerse · strongest debugger alive ⚔️
+    Where 2-layer silicon, behavioral UX & the 8-minute hook meet · Sanctum · Verde · Nirmaan · Resonate · strongest debugger alive ⚔️
     ```
 - **Company / Organization**:
   ```text
@@ -61,7 +61,7 @@ Download any of these files from [`/pfp`](../pfp) and click **Edit** on your Git
   1. `https://devpost.com/aaravgurmeet`
   2. `https://nirmaan-portfolio-main.vercel.app/team/aarav`
   3. `https://verde-cbse.vercel.app/`
-  4. `https://soch-wake-up.vercel.app/`
+  4. `https://act-4-aarav-ycc.vercel.app/`
 
 ---
 
@@ -71,7 +71,7 @@ Right now, most of your builds live in **private repos**, **Vercel deployments**
 
 1. Go to **`https://github.com/aarav-choudhary-pro`** → above your contribution graph on the right, click **`Contribution settings`** → check **`☑ Private contributions`**. Every commit across `SANCTUM — The Portfolio` and your private Vercel repos immediately turns green on your public graph without exposing private code!
 2. Go to **[github.com/settings/emails](https://github.com/settings/emails)** and verify **`aaravgurmeet@gmail.com`** is linked to `aarav-choudhary-pro` so every local/Vercel/Replit Git commit authored with that email attributes to your profile.
-3. Ask **Jeehaan (`@AlphabuggOp`)** and **Anuj (`@UCHIHA-MADARA-ANUJ`)** to add `aarav-choudhary-pro` under **`Settings → Collaborators`** on `ts-creative`, `Ts-Creative-PPT`, `Verde-CBSE`, `Nirmaan-Portfolio-`, `nirmaan-app`, `Resonate-Portfolio`, and `S2S`.
+3. Ask **Jeehaan (`@AlphabuggOp`)** and **Anuj (`@UCHIHA-MADARA-ANUJ`)** to add `aarav-choudhary-pro` under **`Settings → Collaborators`** on `ts-creative`, `Ts-Creative-PPT`, `Verde-CBSE`, `Nirmaan-Portfolio-`, and `Resonate-Portfolio`.
 
 ---
 
@@ -102,10 +102,10 @@ Fork (or make public on your account) and pin these **6 repositories**, then pas
    - **Website**: `https://resonate-preview.vercel.app`
    - **Topics**: `react` `glsl-shaders` `react-three-fiber` `empathy-ai` `gemini` `social-platform`
 
-5. **`Wake-Up-SOCH`** *(make public / push source of `soch-wake-up`)*
-   - **Description**: `Official NGO campaign web platform engineered during GoSharpener × SOCH internship — backing youth sustainability & mental-health drives (5,00,000+ reach).`
-   - **Website**: `https://soch-wake-up.vercel.app`
-   - **Topics**: `civic-tech` `ngo` `sustainability` `web-development` `social-impact`
+5. **`Quiz-mastermind`** *(already public on `aarav-choudhary-pro`)*
+   - **Description**: `1,095-question Class 10 Finals & General Knowledge rapid-recall engine with untimed drills, no-option recall & mistake review.`
+   - **Website**: `https://quiz-mastermind-aarav.vercel.app`
+   - **Topics**: `edtech` `quiz-engine` `active-recall` `typescript` `web-app`
 
 6. **`Vigilant-AI`** *(or `CRY-YCC-Trilogy` / `Quiz-Mastermind` — make public)*
    - **Description**: `GPCSSI Cybercrime Awareness & AI Threat Triage Portal (Team CA-002 & CA044) — phishing detection & 1930 national cyber-emergency hub.`

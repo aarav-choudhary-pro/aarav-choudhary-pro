@@ -1,60 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 285" width="1200" height="285" role="img" aria-label="Three Active Engineering Fronts">
-  <rect x="2" y="2" width="1196" height="281" rx="16" fill="#060A13" stroke="#1E293B" stroke-width="1.6"/>
-  <text x="32" y="36" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11.5" font-weight="700" letter-spacing="2.4" fill="#67E8F9">
-    ACTIVE DEPLOYMENT BUS // THREE PRIMARY FRONTS ONLINE
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 288" width="1200" height="288" role="img" aria-label="Right Now — Three Active Fronts">
+  <rect x="1" y="1" width="1198" height="286" rx="14" fill="#060911" stroke="#1B263B" stroke-width="1.4"/>
+  <text x="32" y="36" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="10" font-weight="700" letter-spacing="3.5" fill="#67E8F9">
+    ACTIVE BENCH · THREE FRONTS ONLINE
   </text>
-  <text x="1168" y="36" text-anchor="end" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="10.5" fill="#FBBF24">
-    LIVE TELEMETRY · ZERO MOCKUPS
+  <text x="1168" y="36" text-anchor="end" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="10" letter-spacing="3" fill="#475569">
+    THREE SYSTEMS · ONE ARCHITECT
   </text>
 
-  <!-- Overhead Power Conduit Distributing Packets to All 3 Fronts -->
-  <path id="busLeft" d="M 600 58 L 214 58 L 214 86" fill="none" stroke="#67E8F9" stroke-width="1.8" stroke-opacity="0.55"/>
-  <path id="busMid" d="M 600 52 L 600 86" fill="none" stroke="#34D399" stroke-width="1.8" stroke-opacity="0.65"/>
-  <path id="busRight" d="M 600 58 L 986 58 L 986 86" fill="none" stroke="#FBBF24" stroke-width="1.8" stroke-opacity="0.55"/>
-  <circle cx="600" cy="58" r="5" fill="#FFFBEB"/>
-
-  <circle r="3.5" fill="#67E8F9" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="2.4s" repeatCount="indefinite"/><animateMotion dur="2.4s" repeatCount="indefinite"><mpath href="#busLeft"/></animateMotion></circle>
-  <circle r="3.5" fill="#34D399" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="1.4s" repeatCount="indefinite"/><animateMotion dur="1.4s" repeatCount="indefinite"><mpath href="#busMid"/></animateMotion></circle>
-  <circle r="3.5" fill="#FBBF24" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="2.4s" begin="0.8s" repeatCount="indefinite"/><animateMotion dur="2.4s" begin="0.8s" repeatCount="indefinite"><mpath href="#busRight"/></animateMotion></circle>
+  <path id="nbL" d="M 600 46 L 212 46 L 212 62" fill="none" stroke="#1E293B" stroke-width="1.2"/>
+  <path id="nbR" d="M 600 46 L 988 46 L 988 62" fill="none" stroke="#1E293B" stroke-width="1.2"/>
+  <circle r="3" fill="#67E8F9" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="2.6s" repeatCount="indefinite"/>
+    <animateMotion dur="2.6s" repeatCount="indefinite"><mpath href="#nbL"/></animateMotion>
+  </circle>
+  <circle r="3" fill="#FBBF24" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="2.6s" begin="1.1s" repeatCount="indefinite"/>
+    <animateMotion dur="2.6s" begin="1.1s" repeatCount="indefinite"><mpath href="#nbR"/></animateMotion>
+  </circle>
 
   
-    <g transform="translate(32, 86)">
-      <rect width="364" height="174" rx="12" fill="#08101E" stroke="#67E8F9" stroke-width="1.5" stroke-opacity="0.72"/>
-      <rect x="0" y="20" width="4" height="134" rx="2" fill="#67E8F9"/>
-      <circle cx="24" cy="26" r="4" fill="#67E8F9">
-        <animate attributeName="opacity" values="1;0.3;1" dur="1.9s" repeatCount="indefinite"/>
+    <g transform="translate(28, 62)">
+      <rect width="368" height="202" rx="12" fill="#0A101D" stroke="#1B263B" stroke-width="1.3"/>
+      <rect x="0" y="20" width="3" height="162" rx="1.5" fill="#67E8F9"/>
+      <text x="22" y="30" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.5" font-weight="700" letter-spacing="2" fill="#67E8F9">01 · TRANSMITTING</text>
+      <circle cx="344" cy="26" r="3.5" fill="#67E8F9">
+        <animate attributeName="opacity" values="1;0.25;1" dur="2.0s" repeatCount="indefinite"/>
       </circle>
-      <text x="36" y="30" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.8" font-weight="700" fill="#67E8F9" letter-spacing="1.2">FRONT 01 // COVERT NETWORK</text>
-      <text x="20" y="64" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="22" font-weight="800" fill="#FFFFFF">PROJECT SANCTUM</text>
-      <text x="20" y="90" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="10.8" font-weight="700" fill="#E2E8F0">3 Live Disguised Doors · 0528 kHz</text>
-      <text x="20" y="113" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="12" fill="#94A3B8">Wrote the world &amp; the 8-minute Finals hook.</text>
-      <rect x="20" y="132" width="324" height="26" rx="6" fill="#081828" stroke="#67E8F9" stroke-width="1" stroke-opacity="0.5"/>
-      <text x="182" y="149" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.8" font-weight="700" fill="#67E8F9">16 PLAYABLE SYSTEMS · WEBGL</text>
+      <text x="22" y="64" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="23" font-weight="800" fill="#F8FAFC">SANCTUM</text>
+      <text x="22" y="88" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="12.2" fill="#94A3B8">a rebellion network hidden behind two dead blogs</text>
+      <line x1="22" y1="106" x2="346" y2="106" stroke="#152033" stroke-width="1"/>
+      <circle cx="24" cy="134" r="2.2" fill="#67E8F9"/><text x="34" y="138" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.5" letter-spacing="1.2" fill="#CBD5E1">THREE LIVE DOORS (?unlock)</text><circle cx="24" cy="155" r="2.2" fill="#67E8F9"/><text x="34" y="159" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.5" letter-spacing="1.2" fill="#CBD5E1">0528 kHz KNOCK PROTOCOL</text><circle cx="24" cy="176" r="2.2" fill="#67E8F9"/><text x="34" y="180" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.5" letter-spacing="1.2" fill="#CBD5E1">EIGHT-MINUTE FINALS HOOK</text>
     </g>
-    <g transform="translate(418, 86)">
-      <rect width="364" height="174" rx="12" fill="#08101E" stroke="#34D399" stroke-width="1.5" stroke-opacity="0.72"/>
-      <rect x="0" y="20" width="4" height="134" rx="2" fill="#34D399"/>
-      <circle cx="24" cy="26" r="4" fill="#34D399">
-        <animate attributeName="opacity" values="1;0.3;1" dur="2.3s" repeatCount="indefinite"/>
+    <g transform="translate(416, 62)">
+      <rect width="368" height="202" rx="12" fill="#0A101D" stroke="#1B263B" stroke-width="1.3"/>
+      <rect x="0" y="20" width="3" height="162" rx="1.5" fill="#34D399"/>
+      <text x="22" y="30" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.5" font-weight="700" letter-spacing="2" fill="#34D399">02 · CULTIVATING</text>
+      <circle cx="344" cy="26" r="3.5" fill="#34D399">
+        <animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/>
       </circle>
-      <text x="36" y="30" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.8" font-weight="700" fill="#34D399" letter-spacing="1.2">FRONT 02 // AUTONOMOUS SILICON</text>
-      <text x="20" y="64" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="22" font-weight="800" fill="#FFFFFF">PROJECT VERDE v3.0</text>
-      <text x="20" y="90" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="10.8" font-weight="700" fill="#E2E8F0">2-Layer KiCad PCB · 20-Site Tower</text>
-      <text x="20" y="113" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="12" fill="#94A3B8">LM2596 5V/3A buck, RS485 NPK &amp; 38ms AI.</text>
-      <rect x="20" y="132" width="324" height="26" rx="6" fill="#071B15" stroke="#34D399" stroke-width="1" stroke-opacity="0.5"/>
-      <text x="182" y="149" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.8" font-weight="700" fill="#34D399">4 LIVE MISSION DOMAINS</text>
+      <text x="22" y="64" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="23" font-weight="800" fill="#F8FAFC">VERDE v3.0</text>
+      <text x="22" y="88" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="12.2" fill="#94A3B8">a 20-site vertical farm on custom 2-layer silicon</text>
+      <line x1="22" y1="106" x2="346" y2="106" stroke="#152033" stroke-width="1"/>
+      <circle cx="24" cy="134" r="2.2" fill="#34D399"/><text x="34" y="138" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.5" letter-spacing="1.2" fill="#CBD5E1">KICAD PCB · LM2596 BUCK</text><circle cx="24" cy="155" r="2.2" fill="#34D399"/><text x="34" y="159" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.5" letter-spacing="1.2" fill="#CBD5E1">RS485 NPK + 38ms TFLITE</text><circle cx="24" cy="176" r="2.2" fill="#34D399"/><text x="34" y="180" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.5" letter-spacing="1.2" fill="#CBD5E1">95% WATER RECLAIMED</text>
     </g>
-    <g transform="translate(804, 86)">
-      <rect width="364" height="174" rx="12" fill="#08101E" stroke="#FBBF24" stroke-width="1.5" stroke-opacity="0.72"/>
-      <rect x="0" y="20" width="4" height="134" rx="2" fill="#FBBF24"/>
-      <circle cx="24" cy="26" r="4" fill="#FBBF24">
-        <animate attributeName="opacity" values="1;0.3;1" dur="2.7s" repeatCount="indefinite"/>
+    <g transform="translate(804, 62)">
+      <rect width="368" height="202" rx="12" fill="#0A101D" stroke="#1B263B" stroke-width="1.3"/>
+      <rect x="0" y="20" width="3" height="162" rx="1.5" fill="#FBBF24"/>
+      <text x="22" y="30" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.5" font-weight="700" letter-spacing="2" fill="#FBBF24">03 · SCALING</text>
+      <circle cx="344" cy="26" r="3.5" fill="#FBBF24">
+        <animate attributeName="opacity" values="1;0.25;1" dur="2.8s" repeatCount="indefinite"/>
       </circle>
-      <text x="36" y="30" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.8" font-weight="700" fill="#FBBF24" letter-spacing="1.2">FRONT 03 // INDIA E-WASTE GRID</text>
-      <text x="20" y="64" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="22" font-weight="800" fill="#FFFFFF">NIRMAN (#1 WINNER)</text>
-      <text x="20" y="90" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="10.8" font-weight="700" fill="#E2E8F0">1st Place DAV E-Colosseum '26</text>
-      <text x="20" y="113" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="12" fill="#94A3B8">4-role pickup network · 76 CPCB hubs.</text>
-      <rect x="20" y="132" width="324" height="26" rx="6" fill="#1A1408" stroke="#FBBF24" stroke-width="1" stroke-opacity="0.5"/>
-      <text x="182" y="149" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.8" font-weight="700" fill="#FBBF24">PORTFOLIO + /team/aarav + APP</text>
+      <text x="22" y="64" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="23" font-weight="800" fill="#F8FAFC">NIRMAN</text>
+      <text x="22" y="88" font-family="'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'DejaVu Sans', sans-serif" font-size="12.2" fill="#94A3B8">India's #1 winning CPCB e-waste pickup network</text>
+      <line x1="22" y1="106" x2="346" y2="106" stroke="#152033" stroke-width="1"/>
+      <circle cx="24" cy="134" r="2.2" fill="#FBBF24"/><text x="34" y="138" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.5" letter-spacing="1.2" fill="#CBD5E1">1ST PLACE · DAV '26</text><circle cx="24" cy="155" r="2.2" fill="#FBBF24"/><text x="34" y="159" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.5" letter-spacing="1.2" fill="#CBD5E1">76 RECYCLERS · 140 BINS</text><circle cx="24" cy="176" r="2.2" fill="#FBBF24"/><text x="34" y="180" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.5" letter-spacing="1.2" fill="#CBD5E1">FIVE-TAP CITIZEN LOOP</text>
     </g>
 </svg>

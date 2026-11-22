@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 356" width="1200" height="356" role="img" aria-label="Attribute and Combat Sheet">
+  <rect x="1" y="1" width="1198" height="354" rx="14" fill="#060911" stroke="#1B263B" stroke-width="1.4"/>
+  <text x="36" y="38" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="10" font-weight="700" letter-spacing="3.5" fill="#FBBF24">
+    ATTRIBUTE SHEET · OKAME-CHAN CALIBRATED
+  </text>
+  <text x="1164" y="38" text-anchor="end" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="10" letter-spacing="3" fill="#67E8F9">
+    UNIT 002 · S-CLASS
+  </text>
+  <line x1="36" y1="54" x2="1164" y2="54" stroke="#141E30" stroke-width="1"/>
+
+  
+    <g transform="translate(36, 78)">
+      <text x="0" y="12" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="10.2" font-weight="700" letter-spacing="1.2" fill="#E2E8F0">PRODUCT &amp; 8-MINUTE HOOK</text>
+      <text x="490" y="12" text-anchor="end" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#475569">Sanctum · Nirmaan · Resonate</text>
+      <rect x="0" y="19" width="490" height="8" rx="4" fill="#0D1628"/>
+      <rect x="0" y="19" width="480" height="8" rx="4" fill="#67E8F9">
+        <animate attributeName="width" from="0" to="480" dur="1.3s" begin="0.20s" fill="freeze"
+                 calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1"/>
+      </rect>
+      <text x="506" y="26.5" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="700" fill="#67E8F9">98</text>
+    </g>
+    <g transform="translate(36, 120)">
+      <text x="0" y="12" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="10.2" font-weight="700" letter-spacing="1.2" fill="#E2E8F0">2-LAYER KICAD &amp; HARDWARE</text>
+      <text x="490" y="12" text-anchor="end" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#475569">Verde PCB · LM2596 · RS485</text>
+      <rect x="0" y="19" width="490" height="8" rx="4" fill="#0D1628"/>
+      <rect x="0" y="19" width="460" height="8" rx="4" fill="#FBBF24">
+        <animate attributeName="width" from="0" to="460" dur="1.3s" begin="0.33s" fill="freeze"
+                 calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1"/>
+      </rect>
+      <text x="506" y="26.5" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="700" fill="#FBBF24">94</text>
+    </g>
+    <g transform="translate(36, 162)">
+      <text x="0" y="12" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="10.2" font-weight="700" letter-spacing="1.2" fill="#E2E8F0">CIVIC &amp; GTM ARCHITECTURE</text>
+      <text x="490" y="12" text-anchor="end" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#475569">DAV '26 #1 · 76 CPCB Hubs</text>
+      <rect x="0" y="19" width="490" height="8" rx="4" fill="#0D1628"/>
+      <rect x="0" y="19" width="470" height="8" rx="4" fill="#34D399">
+        <animate attributeName="width" from="0" to="470" dur="1.3s" begin="0.46s" fill="freeze"
+                 calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1"/>
+      </rect>
+      <text x="506" y="26.5" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="700" fill="#34D399">96</text>
+    </g>
+    <g transform="translate(36, 204)">
+      <text x="0" y="12" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="10.2" font-weight="700" letter-spacing="1.2" fill="#E2E8F0">BEHAVIORAL PSYCHOLOGY</text>
+      <text x="490" y="12" text-anchor="end" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#475569">DRM False-Memory · UX Loops</text>
+      <rect x="0" y="19" width="490" height="8" rx="4" fill="#0D1628"/>
+      <rect x="0" y="19" width="465" height="8" rx="4" fill="#C084FC">
+        <animate attributeName="width" from="0" to="465" dur="1.3s" begin="0.59s" fill="freeze"
+                 calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1"/>
+      </rect>
+      <text x="506" y="26.5" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="700" fill="#C084FC">95</text>
+    </g>
+    <g transform="translate(36, 246)">
+      <text x="0" y="12" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="10.2" font-weight="700" letter-spacing="1.2" fill="#E2E8F0">FULL-STACK &amp; WEBGL</text>
+      <text x="490" y="12" text-anchor="end" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#475569">Next.js · TypeScript · Three.js</text>
+      <rect x="0" y="19" width="490" height="8" rx="4" fill="#0D1628"/>
+      <rect x="0" y="19" width="445" height="8" rx="4" fill="#38BDF8">
+        <animate attributeName="width" from="0" to="445" dur="1.3s" begin="0.72s" fill="freeze"
+                 calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1"/>
+      </rect>
+      <text x="506" y="26.5" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="700" fill="#38BDF8">91</text>
+    </g>
+    <g transform="translate(36, 288)">
+      <text x="0" y="12" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="10.2" font-weight="700" letter-spacing="1.2" fill="#E2E8F0">DEBUGGING &amp; MUN DEBATE</text>
+      <text x="490" y="12" text-anchor="end" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#475569">IITD DISEC · Vigilant · 1,095 Qs</text>
+      <rect x="0" y="19" width="490" height="8" rx="4" fill="#0D1628"/>
+      <rect x="0" y="19" width="465" height="8" rx="4" fill="#FB923C">
+        <animate attributeName="width" from="0" to="465" dur="1.3s" begin="0.85s" fill="freeze"
+                 calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1"/>
+      </rect>
+      <text x="506" y="26.5" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="700" fill="#FB923C">95</text>
+    </g>
+
+  <line x1="654" y1="74" x2="654" y2="326" stroke="#141E30" stroke-width="1"/>
+
+  <polygon points="936.0,162.0 963.7,178.0 963.7,210.0 936.0,226.0 908.3,210.0 908.3,178.0" fill="none" stroke="#162238" stroke-width="1"/><polygon points="936.0,130.0 991.4,162.0 991.4,226.0 936.0,258.0 880.6,226.0 880.6,162.0" fill="none" stroke="#162238" stroke-width="1"/><polygon points="936.0,98.0 1019.1,146.0 1019.1,242.0 936.0,290.0 852.9,242.0 852.9,146.0" fill="none" stroke="#162238" stroke-width="1"/>
+  <line x1="936" y1="194" x2="936.0" y2="98.0" stroke="#162238" stroke-width="1"/><text x="936.0" y="81.0" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.2" font-weight="700" fill="#94A3B8">STORY</text><line x1="936" y1="194" x2="1019.1" y2="146.0" stroke="#162238" stroke-width="1"/><text x="1036.5" y="139.0" text-anchor="start" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.2" font-weight="700" fill="#94A3B8">KICAD PCB</text><line x1="936" y1="194" x2="1019.1" y2="242.0" stroke="#162238" stroke-width="1"/><text x="1036.5" y="255.0" text-anchor="start" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.2" font-weight="700" fill="#94A3B8">WEBGL / TS</text><line x1="936" y1="194" x2="936.0" y2="290.0" stroke="#162238" stroke-width="1"/><text x="936.0" y="313.0" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.2" font-weight="700" fill="#94A3B8">PSYCHOLOGY</text><line x1="936" y1="194" x2="852.9" y2="242.0" stroke="#162238" stroke-width="1"/><text x="835.5" y="255.0" text-anchor="end" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.2" font-weight="700" fill="#94A3B8">GTM / CIVIC</text><line x1="936" y1="194" x2="852.9" y2="146.0" stroke="#162238" stroke-width="1"/><text x="835.5" y="139.0" text-anchor="end" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.2" font-weight="700" fill="#94A3B8">DEBUGGING</text>
+  <polygon points="936.0,99.9 1014.2,148.9 1011.7,237.7 936.0,285.2 856.2,240.1 857.0,148.4" fill="#22D3EE" fill-opacity="0.18" stroke="#67E8F9" stroke-width="2">
+    <animate attributeName="points" values="936.0,194.0 936.0,194.0 936.0,194.0 936.0,194.0 936.0,194.0 936.0,194.0;936.0,99.9 1014.2,148.9 1011.7,237.7 936.0,285.2 856.2,240.1 857.0,148.4" dur="1.15s" begin="0.2s" fill="freeze"
+             calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1"/>
+  </polygon>
+  <polygon points="936.0,99.9 1014.2,148.9 1011.7,237.7 936.0,285.2 856.2,240.1 857.0,148.4" fill="none" stroke="#FBBF24" stroke-width="1.1" stroke-opacity="0.6">
+    <animate attributeName="points" values="936.0,99.9 1014.2,148.9 1011.7,237.7 936.0,285.2 856.2,240.1 857.0,148.4;936.0,103.8 1010.8,150.8 1008.3,235.8 936.0,281.4 859.5,238.2 860.3,150.3;936.0,99.9 1014.2,148.9 1011.7,237.7 936.0,285.2 856.2,240.1 857.0,148.4" dur="4.4s" begin="1.4s" repeatCount="indefinite"/>
+  </polygon>
+</svg>

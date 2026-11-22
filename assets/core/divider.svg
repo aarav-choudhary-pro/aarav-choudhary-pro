@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 44" width="1200" height="44" role="img" aria-label="Section divider">
+  <defs>
+    <linearGradient id="dvL" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#67E8F9" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#67E8F9" stop-opacity="0.55"/>
+    </linearGradient>
+    <linearGradient id="dvR" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FBBF24" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#FBBF24" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="80" y="21.5" width="490" height="1" fill="url(#dvL)"/>
+  <rect x="630" y="21.5" width="490" height="1" fill="url(#dvR)"/>
+  <g transform="translate(600,22)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="28s" repeatCount="indefinite"/>
+      <polygon points="0.0,-11.0 1.8,-4.4 7.8,-7.8 4.4,-1.8 11.0,0.0 4.4,1.8 7.8,7.8 1.8,4.4 0.0,11.0 -1.8,4.4 -7.8,7.8 -4.4,1.8 -11.0,0.0 -4.4,-1.8 -7.8,-7.8 -1.8,-4.4" fill="#070B14" stroke="#67E8F9" stroke-width="1.1"/>
+    </g>
+    <circle cx="0" cy="0" r="2.4" fill="#FBBF24"/>
+  </g>
+</svg>

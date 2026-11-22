@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 151 34" width="151" height="34">
-  <rect x="1" y="1" width="149" height="32" rx="8" fill="#081A28" stroke="#38BDF8" stroke-width="1.2" stroke-opacity="0.72"/>
-  <circle cx="15" cy="17.0" r="3.8" fill="#38BDF8">
-    <animate attributeName="opacity" values="1;0.35;1" dur="2.2s" repeatCount="indefinite"/>
-  </circle>
-  <text x="26.0" y="21.0" text-anchor="start" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', Consolas, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="700" fill="#F1F5F9">3D ARCHIVE SITE</text>
-</svg>
