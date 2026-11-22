@@ -31,7 +31,7 @@
     </g>
     <g transform="translate(36, 162)">
       <text x="0" y="12" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="10.2" font-weight="700" letter-spacing="1.2" fill="#E2E8F0">CIVIC &amp; NGO ARCHITECTURE</text>
-      <text x="490" y="12" text-anchor="end" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#475569">SOCH 5L+ · CRY '26 · DAV #1</text>
+      <text x="490" y="12" text-anchor="end" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#475569">GPCSSI · SOCH 5L+ · CRY '26</text>
       <rect x="0" y="19" width="490" height="8" rx="4" fill="#0D1628"/>
       <rect x="0" y="19" width="470" height="8" rx="4" fill="#FB923C">
         <animate attributeName="width" from="0" to="470" dur="1.3s" begin="0.46s" fill="freeze"
@@ -61,7 +61,7 @@
     </g>
     <g transform="translate(36, 288)">
       <text x="0" y="12" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="10.2" font-weight="700" letter-spacing="1.2" fill="#E2E8F0">DEBUGGING &amp; MUN DEBATE</text>
-      <text x="490" y="12" text-anchor="end" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#475569">IITD DISEC · Vigilant · 1,095 Qs</text>
+      <text x="490" y="12" text-anchor="end" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#475569">IITD DISEC · DAV #1 · 1,095 Qs</text>
       <rect x="0" y="19" width="490" height="8" rx="4" fill="#0D1628"/>
       <rect x="0" y="19" width="465" height="8" rx="4" fill="#38BDF8">
         <animate attributeName="width" from="0" to="465" dur="1.3s" begin="0.85s" fill="freeze"

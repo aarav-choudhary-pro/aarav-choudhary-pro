@@ -37,9 +37,9 @@ Download any of these files from [`/pfp`](../pfp) and click **Edit** on your Git
   Aarav Choudhary
   ```
 - **Bio** *(Pick your favorite — all strictly under GitHub's 160-character limit)*:
-  - **Option A (Flagship Dual-Stack — Recommended, 156 chars)**:
+  - **Option A (Flagship Dual-Stack — Recommended, 155 chars)**:
     ```text
-    ID: 002 · Product, Story & 2-Layer KiCad Hardware · Co-Founder @ Sanctum, Verde, Nirmaan (DAV '26 Winner) & Resonate · Ex-Intern @ SOCH (5L+) & CRY · CCA
+    ID: 002 · Product, Story & 2-Layer KiCad Hardware · Co-Founder @ Sanctum, Verde, Nirmaan (DAV '26 Winner) & Resonate · Ex-Intern @ GPCSSI, SOCH & CRY · CCA
     ```
   - **Option B (Punchy & Iconic, 134 chars)**:
     ```text
@@ -107,10 +107,10 @@ Fork (or make public on your account) and pin these **6 repositories**, then pas
    - **Website**: `https://quiz-mastermind-aarav.vercel.app`
    - **Topics**: `edtech` `quiz-engine` `active-recall` `typescript` `web-app`
 
-6. **`Vigilant-AI`** *(or `CRY-YCC-Trilogy` / `Quiz-Mastermind` — make public)*
-   - **Description**: `GPCSSI Cybercrime Awareness & AI Threat Triage Portal (Team CA-002 & CA044) — phishing detection & 1930 national cyber-emergency hub.`
-   - **Website**: `https://vigilant-ashen.vercel.app`
-   - **Topics**: `cybersecurity` `ai-safety` `civic-tech` `fraud-detection` `web-app`
+6. **`School-work-` (`Quiz Champion`)** *(already public on `aarav-choudhary-pro`)*
+   - **Description**: `15-topic Maths, Science & Current Affairs competition prep suite with interactive crosswords, clue rounds & a 90-second Rapid Relay simulator.`
+   - **Website**: `https://i-h-practice-quiz.vercel.app`
+   - **Topics**: `edtech` `stem` `rapid-relay` `quiz-engine` `web-app`
 
 ---
 
@@ -120,7 +120,7 @@ Close the loop so **every external platform funnels back to `github.com/aarav-ch
 
 | Platform | Handle / Location | Exact Update to Make |
 |---|---|---|
-| **Devpost** | [`devpost.com/aaravgurmeet`](https://devpost.com/aaravgurmeet) | In **Edit Profile**: add GitHub `https://github.com/aarav-choudhary-pro`, Website `https://ts-creative-the-protfolio.vercel.app/?unlock`, Location `Gurugram, HR, IN`, Skills: `TypeScript`, `Next.js`, `KiCad PCB`, `ESP32`, `Product Strategy`, `Gemini AI`, and upload `pfp/aarav-002-emblem.png`. Also publish **Nirmaan**, **Project Verde**, **Project Sanctum**, and **Vigilant AI** as portfolio entries on Devpost so it shows 5 projects instead of 1! |
+| **Devpost** | [`devpost.com/aaravgurmeet`](https://devpost.com/aaravgurmeet) | In **Edit Profile**: add GitHub `https://github.com/aarav-choudhary-pro`, Website `https://ts-creative-the-protfolio.vercel.app/?unlock`, Location `Gurugram, HR, IN`, Skills: `TypeScript`, `Next.js`, `KiCad PCB`, `ESP32`, `Product Strategy`, `Gemini AI`, and upload `pfp/aarav-002-emblem.png`. Also publish **Nirmaan**, **Project Verde**, **Project Sanctum**, and **Quiz Mastermind** as portfolio entries on Devpost so it shows 5 projects instead of 1! |
 | **Discord** | `iamaarav_68049` (`𝕬𝖆𝖗𝖆𝖛 ⚔️ ♾️`) | In **User Settings → Profiles → Connections**: connect **GitHub (`aarav-choudhary-pro`)** with *"Display on profile"* ON, and add `github.com/aarav-choudhary-pro` in your About Me under *"strongest debugger alive (unconfirmed)"*. |
 | **Vercel** | `aarav-choudhary-pros-projects` | Clean alias opportunity: assign clean `.vercel.app` production aliases where helpful (e.g., `sanctum-archive.vercel.app` alongside `ts-creative-the-protfolio.vercel.app` so old QR codes keep working while new links look typo-free!). |
 | **Team Sites** | `Verde`, `Nirmaan`, `Sanctum`, `Resonate` | Whenever you or Anuj/Jeehaan touch `TeamSection.tsx` / `FoundersPage` / `Council`, link your card's GitHub icon directly to `https://github.com/aarav-choudhary-pro`. |

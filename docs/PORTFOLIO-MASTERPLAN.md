@@ -58,8 +58,8 @@ Instead of static PNG mockups, **every flagship project is presented as a playab
 ### Room 06 · CIVIC IMPACT & SOLO BUILDS — The Internship & Solo Engineering Wall
 - **GoSharpener × SOCH (`soch-wake-up.vercel.app`)**: Interactive showcase of the official *"Let's Wake Up"* youth awareness platform (`5,00,000+` lives reached, `280+` sessions, `18+` Indian states, `8` classroom modules).
 - **CRY — Child Rights & You (`act-4-aarav-ycc.vercel.app`, `activity-3-ycc.vercel.app`, `act01-growingup.vercel.app`)**: Youth Change Champions '26 trilogy — Week 4 policy & satirical *Homework Helmet* Chindogu, Week 3 OnlineSafety MissionControl + 48h YouTube algorithm audit, and Act 01 Growing Up.
-- **Vigilant AI (`vigilant-ashen.vercel.app`)**: Live demo of phishing/scam triage & cyber-intelligence workflow (*GPCSSI `CA-002 & CA044`*).
-- **Quiz Mastermind (`quiz-mastermind-aarav.vercel.app`)**: Embedded **3-question live lightning round** pulled straight from your **1,095-question** SST + GK bank right inside the portfolio!
+- **Gurugram Police — GPCSSI (`1-Month Summer Cyber Security Cohort`)**: Field dossier from your month-long attendance with Gurugram Police covering cybercrime investigation workflows, OSINT/phishing threat analysis, and `1930` citizen digital-safety protocols.
+- **Quiz Mastermind & Quiz Champion (`quiz-mastermind-aarav.vercel.app`, `i-h-practice-quiz.vercel.app`)**: Embedded **3-question live lightning round** pulled straight from your **1,095-question** SST + GK bank and 90-second STEM Rapid Relay simulator!
 
 ### Room 07 · THINKING, DEBATE & HARDWARE ORIGINS — What Makes You Tick
 - **Jan 2025 · Smart Irrigation Prototype**: Photos/diagram of your earliest automated soil-moisture pump build — proving a real multi-year hardware progression into *Verde*.

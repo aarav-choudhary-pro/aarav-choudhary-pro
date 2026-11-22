@@ -65,20 +65,21 @@ Every system here starts in two places most student builds skip: a real physical
 | | | | |
 |---|---|---|---|
 | **[SANCTUM ARCHIVE](https://ts-creative-the-protfolio.vercel.app/?unlock)**<br/><sub>unlocked command dossier · [0528 door](https://ts-creative.vercel.app/)</sub> | **[ANDORIA 1998](https://project-sanctum-ppt.vercel.app/)**<br/><sub>disguised finals deck · Fig. 5 × 3 + `HIDE`</sub> | **[VERDE v3.0](https://verde-cbse.vercel.app/)**<br/><sub>2-layer KiCad PCB &amp; 20-site farm · [hub](https://verde-main-portfolio.vercel.app/)</sub> | **[VERDE OS](https://verde-cbse-app.vercel.app/)**<br/><sub>live 5.05V rail, RTDB &amp; TFLite shell</sub> |
-| **[NIRMAN](https://nirmaan-portfolio-main.vercel.app/)**<br/><sub>#1 DAV '26 · [Aarav dossier](https://nirmaan-portfolio-main.vercel.app/team/aarav)</sub> | **[RESONATE](https://resonate-preview.vercel.app/)**<br/><sub>acoustic sanctuary · [galaxy](https://tapestry-hub-uloe.bolt.host/) · [devpost](https://devpost.com/software/resonate-vn53iz)</sub> | **[MASTERMIND](https://quiz-mastermind-aarav.vercel.app/)**<br/><sub>1,095-question finals &amp; GK drill</sub> | **[VIGILANT AI](https://vigilant-ashen.vercel.app/)**<br/><sub>autonomous cyber threat triage · `CA-002`</sub> |
+| **[NIRMAN](https://nirmaan-portfolio-main.vercel.app/)**<br/><sub>#1 DAV '26 · [Aarav dossier](https://nirmaan-portfolio-main.vercel.app/team/aarav)</sub> | **[RESONATE](https://resonate-preview.vercel.app/)**<br/><sub>acoustic sanctuary · [galaxy](https://tapestry-hub-uloe.bolt.host/) · [devpost](https://devpost.com/software/resonate-vn53iz)</sub> | **[MASTERMIND](https://quiz-mastermind-aarav.vercel.app/)**<br/><sub>1,095-question finals &amp; GK drill</sub> | **[QUIZ CHAMPION](https://i-h-practice-quiz.vercel.app/)**<br/><sub>15 STEM modules &amp; 90s relay · [repo](https://github.com/aarav-choudhary-pro/School-work-)</sub> |
 
 <img src="./assets/core/divider.svg" width="100%" alt="" />
 
 ## ⦿ Field Internships
 
 <div align="center">
-  <img src="./assets/core/internships-ledger.svg" width="100%" alt="Field Internships — GoSharpener x SOCH and CRY Youth Change Champions '26" />
+  <img src="./assets/core/internships-ledger.svg" width="100%" alt="Field Internships — GoSharpener x SOCH, CRY Youth Change Champions '26, and Gurugram Police GPCSSI" />
 </div>
 
-| Organisation &amp; Role | Shipped Systems &amp; Live Portals |
+| Organisation &amp; Role | Field Scope &amp; Live Deliverables |
 |---|---|
 | **GoSharpener × SOCH** · *Web Development Intern (2025)* | Engineered the official [**"Let's Wake Up" Campaign Portal**](https://soch-wake-up.vercel.app/) — supporting `280+` youth sustainability &amp; mental-health sessions, `8` classroom modules, and `5,00,000+` lives reached across `18+` Indian states. |
 | **CRY — Child Rights and You** · *Youth Change Champions '26 Intern (2026)* | Built three interactive advocacy &amp; satirical design portals: [**Week 4 · Policy &amp; "Homework Helmet" Chindogu**](https://act-4-aarav-ycc.vercel.app/) · [**Week 3 · OnlineSafety MissionControl**](https://activity-3-ycc.vercel.app/) · [**Act 01 · Growing Up**](https://act01-growingup.vercel.app/). |
+| **Gurugram Police — GPCSSI** · *Cyber Security Summer Intern (1-Month Cohort)* | Attended the month-long **Gurugram Police Cyber Security Summer Internship** — hands-on field immersion in cybercrime analysis, phishing &amp; OSINT reconnaissance, digital forensics fundamentals, and `1930` citizen cyber-safety response. |
 
 <img src="./assets/core/divider.svg" width="100%" alt="" />
 
